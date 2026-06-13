@@ -1,0 +1,48 @@
+Nepal Tax Guidelines — Summary for VANI Knowledge Base
+
+1. Income Tax Rates (Individuals) — FY 2081/82 (2024/25)
+- Up to NPR 5,00,000: 1%
+- NPR 5,00,001 - 7,00,000: 10%
+- NPR 7,00,001 - 10,00,000: 20%
+- NPR 10,00,001 - 20,00,000: 30%
+- Above NPR 20,00,000: 36%
+
+2. Corporate Tax Rates
+- General businesses: 25%
+- Banks and financial institutions: 30%
+- Manufacturing industries: 20%
+- Special industries (export): 15%
+
+3. Tax Filing Deadlines
+- Individual tax return: Within 3 months of fiscal year end (Ashoj end / mid-October).
+- Corporate tax return: Within 3 months of fiscal year end.
+- Nepal fiscal year: Shrawan 1 to Ashad 31 (mid-July to mid-July).
+
+4. Withholding Tax (TDS)
+- Salary: As per income tax slab
+- Rent: 10%
+- Interest: 5% (for residents), 15% (for non-residents)
+- Dividends: 5%
+- Consultancy/Service fees: 15%
+
+5. Tax Deductions Allowed
+- Life insurance premium (up to NPR 40,000)
+- Medical insurance (up to NPR 20,000)
+- Provident fund contributions
+- Donation to approved organizations (up to 5% of taxable income)
+- Home loan interest (up to NPR 1,50,000 for first home)
+
+6. PAN Registration
+- Permanent Account Number required for all taxpayers.
+- Apply at local IRD office or online at www.ird.gov.np.
+- Required documents: Citizenship, photos, business registration (if applicable).
+
+7. Penalties for Non-Compliance
+- Late filing: 0.1% per month
+- Non-filing: Tax assessment by IRD + penalties
+- Tax evasion: Criminal prosecution possible
+
+8. Important Contacts
+- Inland Revenue Department: www.ird.gov.np
+- Tax Helpline: 1660-01-60060
+- E-filing portal: taxpayerportal.ird.gov.np

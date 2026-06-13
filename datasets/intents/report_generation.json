@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "हिजो Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सुनिल को Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Anita को वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सुनिल को Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? for Ram",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary? NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "QUARTERLY REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "report export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Hari को Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sita को Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report? for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "REPORT EXPORT गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report बनाऊ for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट बनाऊ for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को Report export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट? for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ANALYTICS रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report देखाऊ NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिनोद को Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "REPORT DOWNLOAD गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Anita को Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary? for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट? for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sunil को ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "GENERATE REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sita को मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट GENERATE गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report? NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "INVENTORY REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report please for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "YEAR-END REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate report for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "REPORT SUMMARY?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report चाहिन्छ for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को साप्ताहिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report बनाऊ for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "FINANCIAL REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "DAILY REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report? for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report? for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Create report NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's साप्ताहिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Binod को Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट? for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट? for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report for सरिता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट बनाऊ NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Anita को Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Gopal को Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "BUSINESS REPORT चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report please NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सुनिल को Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट? for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sarita को Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday इन्भेन्टरी रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report देखाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "BUSINESS रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ for सरिता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट? NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट? NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता इन्भेन्टरी रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? for श्याम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate report for Anita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट? for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट बनाऊ for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Binod को Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report please?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट EXPORT गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "PROFIT LOSS REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Binod को Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर for Ram",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट बनाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report? for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट बनाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report? for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "TAX REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "TAX रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sunil को Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "GENERATE THIS MONTH'S REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सुनिल को tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Gopal को Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "CUSTOMER REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Create report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "EXPORT REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report please NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report generate गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sita को ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना साप्ताहिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sunil को दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट? NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "SALES REPORT GENERATE गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ANNUAL REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report देखाऊ for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "DAILY REPORT GENERATE गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट? for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "BUSINESS REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for श्याम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report? NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Anita को Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sarita को Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sita को दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर for सीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिनोद को रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट? for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "PERFORMANCE REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट summary? for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report? NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report? for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट? for सीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report? for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "WEEKLY REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Hari को tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's साप्ताहिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "PRINT REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report? for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report? NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Quarterly report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट बनाऊ NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Hari को Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's इन्भेन्टरी रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सरिता को Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sarita को Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sarita को रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ for सीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "SALES REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "DOWNLOAD REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Monthly report please",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report generate गर NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Binod को Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report? for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "PROFIT/LOSS रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate report for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Quarterly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance रिपोर्ट? for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report? for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सुनिल को analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report देखाऊ for श्याम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट? for Ram",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "INVENTORY REPORT चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "analytics रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिनोद को tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report? for Anita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना मासिक रिपोर्ट चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "SHOW ME THE REPORTS",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report? NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report? for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को Business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "profit/loss रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "MONTHLY REPORT PLEASE",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Hari को Monthly report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report export गर NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports for Sita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Shyam को analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Report export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिनोद को business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ANALYTICS REPORT?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट? NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report बनाऊ NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report for सीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report generate गर for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट SUMMARY?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report चाहिन्छ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो Export report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report download गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Download report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो हप्ता Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "FINANCIAL REPORT देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को रिपोर्ट summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? for Sunil",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट? NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "इन्भेन्टरी रिपोर्ट? NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Report print गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "सीता को Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "MONTHLY REPORT चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर for श्याम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please ग्राहक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance रिपोर्ट? NPR 15000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report? for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बिनोद को इन्भेन्टरी रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Show me the reports NPR 25000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report? for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Monthly report चाहिन्छ NPR 10000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Create report NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week Report export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Analytics report देखाऊ for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Ram को बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आज कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report? NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गोपाल को Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Gopal को Annual report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट export गर NPR 500",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report? for सरिता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो रिपोर्ट प्रिन्ट गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "मासिक रिपोर्ट चाहिन्छ for गीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ for Binod",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को performance रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "generate report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट डाउनलोड गर NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report बनाऊ?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Tax report generate गर for श्याम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट? for Shyam",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "दैनिक रिपोर्ट? for गोपाल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Sales report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report for Gopal",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "REPORT बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report for Ram",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हरि को Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृष्ण को बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Inventory report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? for Ram",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट प्रिन्ट गर for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "EMPLOYEE REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "show me the reports",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "CREATE REPORT",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please दैनिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary? for बिनोद",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Employee report for हरि",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Print report for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "वित्तीय रिपोर्ट? for Anita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "tax रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report summary?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Krishna को बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया tax रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report? NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट? for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ANALYTICS REPORT देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Customer report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत हप्ता रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजोको Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "यो महिना business रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this month Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Profit loss report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sita को Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Hari को Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month Create report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Weekly report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "performance रिपोर्ट??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको Print report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया कर्मचारी रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "आजको रिपोर्ट export गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Customer report? for Anita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को Tax report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया Inventory report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please Year-end report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Financial report देखाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "हिजो रिपोर्ट generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Daily report generate गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "PERFORMANCE रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sarita को Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Report print गर for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Tax report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट? for सुनिल",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report? for Anita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "EMPLOYEE REPORT बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today's Report download गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Profit loss report? NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "साप्ताहिक रिपोर्ट? NPR 100000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report? NPR 75000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "this week बिक्री रिपोर्ट बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Sales report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today रिपोर्ट डाउनलोड गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Performance report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report चाहिन्छ for राम",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Weekly report? NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report? NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "रिपोर्ट generate गर for Krishna",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Generate this month's report NPR 2000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "please profit/loss रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Export report NPR 1000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट? for Sarita",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Financial report??",
+    "intent": "report_generation"
+  },
+  {
+    "text": "REPORT PRINT गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last month analytics रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business रिपोर्ट",
+    "intent": "report_generation"
+  },
+  {
+    "text": "श्याम को Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Download report for सीता",
+    "intent": "report_generation"
+  },
+  {
+    "text": "TAX REPORT GENERATE गर",
+    "intent": "report_generation"
+  },
+  {
+    "text": "राम को Analytics report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ NPR 5000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "ग्राहक रिपोर्ट? for कृष्ण",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना Employee report बनाऊ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Daily report generate गर for Hari",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Inventory report चाहिन्छ NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "बार्षिक रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "Business report चाहिन्छ NPR 50000",
+    "intent": "report_generation"
+  },
+  {
+    "text": "today Generate this month's report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "कृपया वित्तीय रिपोर्ट?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "business report चाहिन्छ",
+    "intent": "report_generation"
+  },
+  {
+    "text": "last week Financial report?",
+    "intent": "report_generation"
+  },
+  {
+    "text": "yesterday's Employee report",
+    "intent": "report_generation"
+  },
+  {
+    "text": "गत महिना रिपोर्ट generate गर",
+    "intent": "report_generation"
+  }
+]

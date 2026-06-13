@@ -1,0 +1,84 @@
+version: '3.8'
+
+services:
+  # ═══════════════════════════════════════════
+  # VANI Backend (FastAPI)
+  # ═══════════════════════════════════════════
+  vani-backend:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile.backend
+    container_name: vani-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@vani-db:5432/vani
+      - VANI_TTS_ENGINE=coqui
+      - PYTHONIOENCODING=utf-8
+    depends_on:
+      - vani-db
+      - vani-vectordb
+    volumes:
+      - ../datasets:/app/datasets
+    restart: unless-stopped
+    networks:
+      - vani-network
+
+  # ═══════════════════════════════════════════
+  # VANI Frontend (Next.js)
+  # ═══════════════════════════════════════════
+  vani-frontend:
+    build:
+      context: ../frontend
+      dockerfile: ../deployment/Dockerfile.frontend
+    container_name: vani-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://vani-backend:8000
+    depends_on:
+      - vani-backend
+    restart: unless-stopped
+    networks:
+      - vani-network
+
+  # ═══════════════════════════════════════════
+  # PostgreSQL Database
+  # ═══════════════════════════════════════════
+  vani-db:
+    image: postgres:16-alpine
+    container_name: vani-db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=vani
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ../database/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    restart: unless-stopped
+    networks:
+      - vani-network
+
+  # ═══════════════════════════════════════════
+  # Qdrant Vector Database
+  # ═══════════════════════════════════════════
+  vani-vectordb:
+    image: qdrant/qdrant:latest
+    container_name: vani-vectordb
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+    networks:
+      - vani-network
+
+volumes:
+  postgres_data:
+  qdrant_data:
+
+networks:
+  vani-network:
+    driver: bridge

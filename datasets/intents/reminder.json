@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "please Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि REMIND गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना for बिनोद",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? for Binod",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "today बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "please pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "राम को follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "please due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "today follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting remind गर for Shyam",
+    "intent": "reminder"
+  },
+  {
+    "text": "TODAY AGENDA?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची??",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task??",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची? NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "TO-DO LIST?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Shyam को Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "FOLLOW UP REMINDER",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "PAYMENT DUE सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting remind गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "राम को भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule? NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ for Shyam",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हरि को Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "TASK LIST?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? for Shyam",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting remind गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "गीता को to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder for Ram",
+    "intent": "reminder"
+  },
+  {
+    "text": "meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका??",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending? for सरिता",
+    "intent": "reminder"
+  },
+  {
+    "text": "TOMORROW SCHEDULE?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "please भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set reminder NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "SET A REMINDER FOR 3PM",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "PENDING काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक छ भनी सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Payment due सम्झाऊ for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule? NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "WHAT'S PENDING?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule??",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "राम को Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि remind गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder set गर for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "गीता को Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule गर NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Payment due सम्झाऊ for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow's schedule??",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गोपाल को सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sita को भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "MEETING REMIND गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बिनोद को Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? for Ram",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "SET REMINDER",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check गर for Binod",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting?",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गोपाल को Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due for Hari",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "REMIND ME ABOUT MEETING",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "APPOINTMENT सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "please schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना?",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule गर for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "DEADLINE REMINDER",
+    "intent": "reminder"
+  },
+  {
+    "text": "FOLLOW UP गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता काम सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sita को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "NOTIFICATION पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sita को notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ for Hari",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? for सरिता",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "राम को task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "ALARM सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "CALENDAR CHECK?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "MEETING SCHEDULE?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया काम सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending??",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sita को Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ? NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list??",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Payment due सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Shyam को Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ for बिनोद",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder set गर NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow for Shyam",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow's schedule? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "please deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "REMIND PAYMENT DUE",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow's schedule",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची? for Binod",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder set गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गीता को deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline reminder NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि remind गर for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बिनोद को Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हरि को Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder set गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list? for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "APPOINTMENT REMINDER",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "DEADLINE सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम??",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक तालिका? for Hari",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule? for बिनोद",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule? NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda??",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Shyam को What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "TASK REMINDER",
+    "intent": "reminder"
+  },
+  {
+    "text": "PENDING TASK?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "TODAY'S AGENDA?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ? for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "राम को Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "REMINDER SET गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "TOMORROW'S SCHEDULE?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "बिनोद को Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "SCHEDULE देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "what's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule गर for Sarita",
+    "intent": "reminder"
+  },
+  {
+    "text": "remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस्?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list??",
+    "intent": "reminder"
+  },
+  {
+    "text": "calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ??",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task? for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "What's pending? NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list? for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? for बिनोद",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting remind गर NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "SCHEDULE गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "SCHEDULE MEETING",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda? for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "please What's pending?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ? NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Payment due सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Krishna को Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Reminder set गर for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule? NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due date सम्झाऊ for बिनोद",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check गर NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "SET ALARM",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for Sarita",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "please task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "DUE DATE सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's काम सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "बैठक छ भनी सम्झाऊ NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर for Binod",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set reminder for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर for सरिता",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule गर?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule? NPR 25000",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Binod को Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "CALENDAR CHECK गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check??",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm NPR 5000",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Tomorrow's schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please बैठक छ भनी सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को सम्झना दिनुस्",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task",
+    "intent": "reminder"
+  },
+  {
+    "text": "please भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? for Sarita",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Meeting schedule??",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ for हरि",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Due dates??",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "गीता को Set alarm",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको कार्यसूची? NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Calendar check गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "please to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सरिता को Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "सुनिल को appointment सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task reminder for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ NPR 10000",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "appointment सम्झना for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Set reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week alarm सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list??",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda? for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today's agenda??",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule",
+    "intent": "reminder"
+  },
+  {
+    "text": "Calendar check? NPR 1000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Tomorrow schedule? for कृष्ण",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today काम सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् for सरिता",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sunil को Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "APPOINTMENT REMIND गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Task list? NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week To-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "to-do list? for Anita",
+    "intent": "reminder"
+  },
+  {
+    "text": "काम सम्झाऊ for Shyam",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Hari को Task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृष्ण को Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Today agenda? for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ for सरिता",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "Ram को Set a reminder for 3pm",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Task reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set reminder?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "appointment सम्झना?",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया बैठक तालिका?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment remind गर NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Calendar check?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Schedule देखाऊ for गीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set a reminder for 3pm for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "REMIND ME TOMORROW",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week Meeting remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder for Hari",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "Pending task? for Sunil",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Notification पठाऊ for श्याम",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो महिना Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "बिनोद को Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set alarm NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "To-do list? NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आजको Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday's to-do list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up गर for सुनिल",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month आजको कार्यसूची?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि remind गर for सीता",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sita को Due dates?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Follow up reminder?",
+    "intent": "reminder"
+  },
+  {
+    "text": "notification पठाऊ NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर for गोपाल",
+    "intent": "reminder"
+  },
+  {
+    "text": "भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "task list??",
+    "intent": "reminder"
+  },
+  {
+    "text": "yesterday Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? NPR 500",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Task reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि remind गर NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Set notification",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "due date सम्झाऊ NPR 2000",
+    "intent": "reminder"
+  },
+  {
+    "text": "deadline सम्झाऊ NPR 15000",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "यो हप्ता Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "TASK REMINDER SET गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Follow up reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Remind payment due",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Schedule देखाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today's भोलिको बैठक सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Anita को Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "श्याम को task list?",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Remind me tomorrow",
+    "intent": "reminder"
+  },
+  {
+    "text": "follow up गर for Sarita",
+    "intent": "reminder"
+  },
+  {
+    "text": "DUE DATES?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "please भुक्तानी सम्झना",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत हप्ता Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को Appointment remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "please सम्झना राख",
+    "intent": "reminder"
+  },
+  {
+    "text": "सीता को Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind payment due NPR 100000",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Due date सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Deadline reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "SET NOTIFICATION",
+    "intent": "reminder"
+  },
+  {
+    "text": "this week deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Appointment reminder",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजो Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलि के गर्नु छ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना दिनुस् NPR 50000",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Schedule meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "please Deadline सम्झाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "सम्झना राख for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "last month Today's agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "alarm सेट गर for Sita",
+    "intent": "reminder"
+  },
+  {
+    "text": "कृपया Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "Set reminder NPR 75000",
+    "intent": "reminder"
+  },
+  {
+    "text": "Sarita को रिमाइन्डर सेट गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "गत महिना Meeting schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "this month Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "Shyam को Reminder set गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको follow up गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम?",
+    "intent": "reminder"
+  },
+  {
+    "text": "भोलिको बैठक सम्झाऊ for राम",
+    "intent": "reminder"
+  },
+  {
+    "text": "Appointment reminder?",
+    "intent": "reminder"
+  },
+  {
+    "text": "आज Tomorrow schedule?",
+    "intent": "reminder"
+  },
+  {
+    "text": "हिजोको Notification पठाऊ",
+    "intent": "reminder"
+  },
+  {
+    "text": "today भोलि remind गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "गीता को schedule गर",
+    "intent": "reminder"
+  },
+  {
+    "text": "pending काम? for Gopal",
+    "intent": "reminder"
+  },
+  {
+    "text": "Gopal को Pending task?",
+    "intent": "reminder"
+  },
+  {
+    "text": "रिमाइन्डर सेट गर for Krishna",
+    "intent": "reminder"
+  },
+  {
+    "text": "Remind me about meeting",
+    "intent": "reminder"
+  },
+  {
+    "text": "today Today agenda?",
+    "intent": "reminder"
+  },
+  {
+    "text": "last week Today agenda?",
+    "intent": "reminder"
+  }
+]

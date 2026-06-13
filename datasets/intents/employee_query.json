@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "गत हप्ता कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email? for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? NPR 25000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? for Binod",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position? for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee data देखाऊ NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको पद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list please?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट? for Krishna",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ जानकारी? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DEPARTMENT?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी अपडेट for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE PERFORMANCE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "TOTAL STAFF COUNT?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हरि को कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "list managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ for Binod",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Binod को HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति? for Sarita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "STAFF INFORMATION चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको नियुक्ति मिति? for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE SEARCH गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report? for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ for सीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE PERFORMANCE REPORT?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्",
+    "intent": "employee_query"
+  },
+  {
+    "text": "UPDATE EMPLOYEE",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DEPARTMENT कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी अपडेट NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी सूची",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गीता को Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE LIST देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "SEARCH EMPLOYEE",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance? for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number? for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण? for सीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DETAILS?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details? NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृष्ण को कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sarita को कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data? for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "NEW EMPLOYEE ADD गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff list देखाऊ for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "hr report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृष्ण को नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Anita को Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee database? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HOW MANY EMPLOYEES?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गोपाल को Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ for Krishna",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ for गीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "SHOW ALL EMPLOYEES",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data? for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR REPORT?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees? for गीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? for Ram",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE SALARY?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE POSITION?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन? for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR REPORT चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको नियुक्ति मिति",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "ADD NEW EMPLOYEE",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department",
+    "intent": "employee_query"
+  },
+  {
+    "text": "नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone? for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गोपाल को Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट? for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्? for Ram",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details? for सीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको EMAIL?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sarita को Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Show all employees for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "STAFF COUNT कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Show all employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position? for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report? for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Update employee NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance report? for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गीता को कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ NPR 25000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number? NPR 25000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी PHONE NUMBER?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ जानकारी",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sunil को कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण? NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date? for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विभाग? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Total staff count",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee data देखाऊ NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff list देखाऊ for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Update employee NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list please NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sarita को List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Total staff count? NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "WHO WORKS IN SALES?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number? NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गीता को Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee update गर for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विभाग",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी सूची? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "STAFF INFORMATION?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको तलब",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण? for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हरि को स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Binod को Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन? for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ for सीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance report??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी सूची? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee database? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data? for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Ram को Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sunil को Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन? NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको पद??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Remove employee?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sunil को Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary? for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list please NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE REPORT?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Remove employee NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list please NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department? NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Anita को Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी SALARY कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी सूची??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE UPDATE गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन? NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email? for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन? for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विभाग? NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Show all employees for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date? for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report? for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Update employee?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी रिपोर्ट? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance? NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance report",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति? for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE HIRE DATE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति? NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE PROFILE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report? for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE LIST PLEASE",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "hr report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report? for Anita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट? NPR 25000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी अपडेट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको पद? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? for Krishna",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE PHONE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट? for गीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ for Sarita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position",
+    "intent": "employee_query"
+  },
+  {
+    "text": "how many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales? NPR 25000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee data देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? for Sarita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report? NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "नयाँ कर्मचारी थप NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? for Binod",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date? NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्? for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर for सीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Total staff count? for कृष्ण",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति? for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Total staff count??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट? for Krishna",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees? for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ for Sarita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "STAFF DATA?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DATA देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee for सुनिल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ जानकारी??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DETAILS देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति? for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ for Sita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Add new employee for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी salary कति? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी प्रोफाइल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE DATABASE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Binod को कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृष्ण को Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile? for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गोपाल को Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हरि को कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report? for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी हटाऊ for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE EMAIL?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हरि को कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Ram को कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा? for Krishna",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको नियुक्ति मिति? for Binod",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance report? for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना HR report चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee hire date? for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ for बिनोद",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary? NPR 500",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee department कुन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary? for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report? NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Ram को Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data? for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today कर्मचारीको नियुक्ति मिति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "EMPLOYEE PROFILE देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month कर्मचारी salary कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "राम को कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको तलब??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सीता को कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको नियुक्ति मिति??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday नयाँ कर्मचारी थप",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट? for Hari",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो कति जना स्टाफ छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको कर्मचारीको फोन?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Binod को Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारीको विभाग?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "New employee add गर NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "total staff count?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sunil को स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना कर्मचारी सूची?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी खोज NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee for Shyam",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारीको तलब?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Update employee for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Krishna को Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week Employee position?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's कर्मचारी प्रोफाइल?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विभाग??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारीको performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Employee list please",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee position? for Sarita",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "LIST MANAGERS",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee update गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ जानकारी? NPR 75000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email? for Sunil",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales? NPR 10000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee database??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो महिना List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information? for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको तलब? for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Staff data?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "REMOVE EMPLOYEE",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Binod को Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees? for Gopal",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Add new employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "hr रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "श्याम को कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "STAFF LIST देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी खोज",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff information चाहिन्छ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary? NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff list देखाऊ for सरिता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee details?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारी कति छन्?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report चाहिन्छ NPR 100000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee salary?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "List managers NPR 2000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हरि को Employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Search employee for गीता",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sarita को Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृष्ण को कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "नयाँ कर्मचारी थप?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee profile देखाऊ NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Who works in sales?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee database",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको फोन",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance? NPR 5000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sunil को Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Gopal को कर्मचारी अपडेट",
+    "intent": "employee_query"
+  },
+  {
+    "text": "HR report",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's Employee database?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this month Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको performance??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारीको PERFORMANCE?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया स्टाफ जानकारी?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Employee search गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आजको How many employees?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Show all employees for Binod",
+    "intent": "employee_query"
+  },
+  {
+    "text": "बिनोद को कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee report? NPR 1000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee phone? for हरि",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Update employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "new employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी phone number",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत हप्ता Search employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Sita को Staff count कति?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारी phone number?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff data? for राम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी अपडेट NPR 50000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee search गर for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee list देखाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कति जना स्टाफ छन्??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department? for गोपाल",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सुनिल को New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गीता को Employee list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कर्मचारी कति छन्",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday कर्मचारी रिपोर्ट?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Anita को Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Anita को Employee phone?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee performance report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee details",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee data देखाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee performance?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Hari को New employee add गर",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee department कुन??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today Staff information?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Employee email? NPR 15000",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "today's HR report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last week List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees? for श्याम",
+    "intent": "employee_query"
+  },
+  {
+    "text": "सरिता को List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Shyam को कर्मचारी हटाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please कर्मचारीको पद?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको कर्मचारीको विवरण?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "yesterday's Employee hire date?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "यो हप्ता Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "How many employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff count कति",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Employee details देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "this week Show all employees",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Ram को Staff list देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Who works in sales??",
+    "intent": "employee_query"
+  },
+  {
+    "text": "Staff list देखाऊ?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "आज List managers",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजो Remove employee",
+    "intent": "employee_query"
+  },
+  {
+    "text": "कृपया Staff information चाहिन्छ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "employee report?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "गत महिना Employee profile देखाऊ",
+    "intent": "employee_query"
+  },
+  {
+    "text": "हिजोको Employee profile?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "last month कर्मचारीको email?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "स्टाफ डाटा?",
+    "intent": "employee_query"
+  },
+  {
+    "text": "please Employee list देखाऊ",
+    "intent": "employee_query"
+  }
+]

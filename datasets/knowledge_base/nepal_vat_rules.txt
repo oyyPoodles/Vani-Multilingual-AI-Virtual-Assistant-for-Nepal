@@ -1,0 +1,55 @@
+Nepal VAT (Value Added Tax) Regulations — Summary for VANI Knowledge Base
+
+1. VAT Rate
+Nepal's standard VAT rate is 13%, applicable to most goods and services.
+
+2. VAT Registration
+- Businesses with annual turnover exceeding NPR 5 million must register for VAT.
+- Voluntary registration is available for businesses below threshold.
+- Registration is done at the Inland Revenue Department (IRD).
+
+3. VAT Filing Deadlines
+- Monthly VAT returns must be filed by the 25th of the following month.
+- Example: January VAT return is due by February 25th.
+- Late filing incurs a penalty of 0.05% per day of the tax due.
+
+4. VAT Exempt Goods and Services
+- Basic agricultural products (rice, wheat, lentils, vegetables)
+- Educational services
+- Health services
+- Residential rent
+- Public transportation
+- Books, newspapers
+- Electricity (for domestic use up to certain limit)
+
+5. Zero-Rated Exports
+- Goods exported outside Nepal are zero-rated.
+- Services provided to entities outside Nepal may qualify.
+
+6. VAT Invoice Requirements
+- Seller's PAN (Permanent Account Number)
+- Buyer's PAN (for B2B transactions)
+- Date of transaction
+- Description of goods/services
+- Quantity and unit price
+- Total amount and VAT amount separately stated
+
+7. Input Tax Credit
+- VAT paid on business purchases can be claimed as input tax credit.
+- Credit is available only for VAT-registered businesses.
+- Personal expenses and entertainment costs are not eligible.
+
+8. Penalties
+- Late filing: 0.05% per day
+- Understatement of tax: 50% of underpaid amount
+- Non-registration: NPR 10,000 or actual tax, whichever is higher
+
+9. Important Contacts
+- Inland Revenue Department: www.ird.gov.np
+- VAT Helpline: 1660-01-60060
+- Regional IRD offices available in all 7 provinces
+
+10. Recent Changes (2024-2025)
+- Digital services by foreign providers now subject to VAT
+- E-invoicing being gradually implemented
+- Threshold for mandatory registration remains NPR 5 million

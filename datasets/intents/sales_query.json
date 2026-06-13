@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "यो महिना बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ताको बिक्री कति? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो? for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sarita को What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Krishna को What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "TOTAL REVENUE आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज? NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सीता को आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको REVENUE कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिनाको बिक्री",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो? for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज? for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES PERFORMANCE TODAY?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति? for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sarita को आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "मासिक बिक्री summary NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "DAILY SALES कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show me sales report NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sarita को Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिनोद को Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिनाको बिक्री??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति REVENUE आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "राम को Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount? for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? for गोपाल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिनाको बिक्री",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES SUMMARY देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "how much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सीता को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको SALES FIGURE?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो? for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount? for श्याम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री? for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sarita को बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales? for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES FOR THIS WEEK?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो? for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ for श्याम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "MONTHLY SALES REPORT",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन PRODUCT सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री रिपोर्ट देखाऊ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "WHAT ARE TODAY'S SALES?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री REPORT GENERATE गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ताको बिक्री कति",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति",
+    "intent": "sales_query"
+  },
+  {
+    "text": "MONTHLY SALES कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show me sales report NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show me sales report for Krishna",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "REVENUE REPORT देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for Krishna",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति? for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "HOW MUCH DID WE SELL TODAY?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "what's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "GIVE ME THE SALES NUMBERS",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सीता को कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "राम को Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री रिपोर्ट देखाऊ NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो? for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report for गोपाल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज? for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ? for Krishna",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today? for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "मासिक बिक्री summary NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "how are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री रिपोर्ट देखाऊ for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ for श्याम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज SALES REPORT देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount",
+    "intent": "sales_query"
+  },
+  {
+    "text": "what were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SHOW ME SALES REPORT",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's the revenue for today? for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सुनिल को What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today? for कृष्ण",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो? for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "TODAY को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales figure NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गोपाल को कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Krishna को बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month बिक्रीको trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "REVENUE UPDATE",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "राम को What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गोपाल को बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue? for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report for Krishna",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Monthly sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "TOTAL SALES AMOUNT?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "TODAY'S REVENUE?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृष्ण को What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for राम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिनाको बिक्री? for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिनाको बिक्री? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "राम को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "मासिक बिक्री SUMMARY",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? for गोपाल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिनोद को Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? for गोपाल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "HOW MUCH REVENUE?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिनोद को Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "WHAT'S OUR DAILY REVENUE?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES SUMMARY PLEASE",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What are today's sales? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show me sales report?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "WHAT WERE YESTERDAY'S SALES?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ? for Shyam",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "WEEKLY SALES REPORT चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "मासिक बिक्री summary?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सीता को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको INCOME कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES TREND कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Binod को Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री कस्तो छ? for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको कुल बिक्री? NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "what are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What's our daily revenue? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Krishna को Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Today को बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "how much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales figure for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES DATA चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Sales for this week?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "HOW ARE SALES GOING?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Shyam को Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue report देखाऊ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको trend कस्तो छ? for श्याम",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales report?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Monthly sales कति? for Ram",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो? NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales? for कृष्ण",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री data चाहिन्छ NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Total revenue आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हरि को गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "what's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो? for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति SALES भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति? NPR 10000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Krishna को बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers NPR 15000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Sales summary देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ for सुनिल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue report देखाऊ for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति कमायौं आज",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को Sales trend कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति sales भयो? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कति revenue आयो? for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री report generate गर for सीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Show today's sales data",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को Revenue update",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री DATA चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales performance today? NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गोपाल को How much revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "What were yesterday's sales? for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्रीको TREND कस्तो छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "DAILY SALES FIGURE",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो? for कृष्ण",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Monthly sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिनाको बिक्री??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data NPR 1000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "दैनिक बिक्री कति? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sita को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Hari को हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो कति कमायौं आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को Daily sales figure",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको sales figure? for Krishna",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिना Sales summary please",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो? for Sunil",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सुनिल को How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for सरिता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Gopal को How much did we sell today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much revenue? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales for this week? NPR 75000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary देखाऊ for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please Sales breakdown today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales data चाहिन्छ?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today? for Sarita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Weekly sales report चाहिन्छ for गोपाल",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज कति बिक्यो? NPR 25000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता यो हप्ताको बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया बिक्री report generate गर",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? for Sita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज What's the revenue for today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो Give me the sales numbers",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सरिता को Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "REVENUE कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Ram को बिक्री बढ्यो कि घट्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SALES कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today को बिक्री",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता Weekly sales report चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज? for गीता",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sunil को Total sales amount?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total sales today? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया Total sales today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कुन product सबैभन्दा बढी बिक्यो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "राम को आजको sales figure?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Give me the sales numbers NPR 500",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो महिना बिक्री data चाहिन्छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको मासिक बिक्री summary",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's Show me sales report",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री रिपोर्ट देखाऊ NPR 5000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गीता को आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ताको बिक्री कति??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Krishna को Revenue report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales breakdown today NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "TOTAL SALES TODAY?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today What are today's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "SHOW TODAY'S SALES DATA",
+    "intent": "sales_query"
+  },
+  {
+    "text": "How much did we sell today? NPR 100000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको revenue कति भयो??",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sarita को आजको कुल बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last week How are sales going?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Anita को Revenue कति आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today आज sales report देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales summary please for Binod",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales trend कस्तो छ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आज Sales performance today?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales figure for Gopal",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's कुन product सबैभन्दा बढी बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजो बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Sales कति भयो आज? for बिनोद",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया What were yesterday's sales?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "कृपया What's our daily revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data for हरि",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत हप्ता बिक्री रिपोर्ट देखाऊ",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Revenue update NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this week आज कति sales भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "हिजोको आज कति बिक्यो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "यो हप्ता आजको revenue कति भयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "yesterday's हिजोको बिक्री कति थियो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Daily sales कति? for Hari",
+    "intent": "sales_query"
+  },
+  {
+    "text": "सुनिल को Sales कति भयो आज?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Total revenue आज",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Show today's sales data?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "WHAT'S THE REVENUE FOR TODAY?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिक्री बढ्यो कि घट्यो",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को कति revenue आयो?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "please दैनिक बिक्री कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "बिनोद को Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Daily sales कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "श्याम को गत महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month यो महिनाको बिक्री?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "today's आजको income कति?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "आजको बिक्री कति भयो? for Anita",
+    "intent": "sales_query"
+  },
+  {
+    "text": "गत महिनाको बिक्री? NPR 2000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "this month Today's revenue?",
+    "intent": "sales_query"
+  },
+  {
+    "text": "Today's revenue? NPR 50000",
+    "intent": "sales_query"
+  },
+  {
+    "text": "last month बिक्री कस्तो छ?",
+    "intent": "sales_query"
+  }
+]

@@ -1,0 +1,12 @@
+#documentation
+docs/
+research/
+
+#backend
+backend/api/
+frontend/public/
+
+#report
+AGENTS.md
+CLAUDE.md
+report.md

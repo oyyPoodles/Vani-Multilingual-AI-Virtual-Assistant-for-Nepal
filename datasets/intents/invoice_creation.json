@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Last invoice??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send invoice to customer for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status? NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Hari को अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE LIST चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status? for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Invoice for customer A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस् for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Shyam को बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE DETAILS?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृष्ण को Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT invoice चाहिन्छ NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "CANCEL INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Binod को अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Make an invoice NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस पठाउनुस् NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस पठाउनुस्?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हरि को VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "create vat invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिनोद को Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Binod को Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृष्ण को बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Krishna को Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "List all invoices NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate bill for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? for Anita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice for customer A for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice print गर for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status? for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status? for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस तयार गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE PAYMENT STATUS?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस पठाउनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस पठाउनुस् for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ? NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "BILL PAYMENT STATUS?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस्?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सीता को Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice for customer A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "SEND INVOICE TO CUSTOMER",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT invoice चाहिन्छ for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "MAKE AN INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice print गर for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send invoice to customer NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल generate गर for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको इन्भ्वाइस पठाउनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT INVOICE चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for Sarita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "LAST INVOICE देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सीता को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "CREATE BILLING",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "LAST INVOICE?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम को Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Krishna को Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "NEW BILL बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिनोद को अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "List all invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status देखाऊ NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "GENERATE BILL",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Hari को बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस तयार गर for हरि",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices? for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice print गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "CREATE A BILL",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "List all invoices for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "PENDING INVOICES?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम को बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sarita को Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल सूची? NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices? NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices? NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल सूची",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "LIST ALL INVOICES",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send invoice to customer?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल generate गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Shyam को Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "new bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृष्ण को Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस्?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सीता को बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for Ram",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Shyam को Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status देखाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice for customer a",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "PENDING INVOICE कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "CREATE VAT INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate bill NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice for customer A for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice print गर for Anita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सीता को VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "BILL CANCEL गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create billing for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सुनिल को Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE DETAILS देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "अन्तिम बिल देखाऊ NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices? for हरि",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस् for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice for customer A NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "GENERATE INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस् for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create billing?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT invoice चाहिन्छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हरि को VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "अन्तिम बिल देखाऊ NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर for Sarita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "अन्तिम बिल देखाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ? NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम को बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sarita को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिनोद को इन्भ्वाइस पठाउनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल सूची? NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice for customer A?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम को बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week इन्भ्वाइस पठाउनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृष्ण को Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create VAT invoice for हरि",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Binod को New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "new invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Shyam को Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सुनिल को Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर for Anita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "CUSTOMER को INVOICE?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस पठाउनुस् NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सुनिल को pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE UPDATE गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिनोद को Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Binod को ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create a bill?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sarita को बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status? for Anita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Krishna को Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई INVOICE पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Invoice for customer A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Hari को बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE FOR CUSTOMER A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ for Binod",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Update invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create billing for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's Bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sunil को How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिनोद को बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हरि को Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस तयार गर for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices? for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल प्रिन्ट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Make an invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हरि को List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल पठाऊ NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status? NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Bill cancel गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice for customer A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "HOW MANY PENDING INVOICES?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकको बिल बनाऊ NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Krishna को Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details? for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? NPR 75000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT बिल चाहिन्छ NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल प्रिन्ट गर NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ? NPR 500",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल सूची??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday's VAT बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Shyam को बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sita को Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create a bill NPR 100000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "how many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "List all invoices for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Invoice print गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Binod को Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New bill बनाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण??",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "ग्राहकलाई बिल दिनुस् for गीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice देखाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को Generate invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सुनिल को How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को List all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता बिल तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create a bill NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this week ग्राहकलाई बिल दिनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हरि को Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "list all invoices",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status? NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Invoice for customer A",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को बिलको status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice update गर for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Make an invoice NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "SEND THE INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Create a bill NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Sarita को Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please New invoice please",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल छाप्नुस् for सीता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "BILL GENERATE गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको STATUS?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "NEW INVOICE PLEASE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill payment status? for Sita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Invoice बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month इन्भ्वाइस तयार गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE PRINT गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "PRINT INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Send invoice to customer",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता बिल भुक्तानी?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Krishna को Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate bill for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice बनाऊ for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status देखाऊ for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Gopal को नयाँ बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "श्याम को Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल बनाऊ NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजोको Invoice update गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Last invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill generate गर NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "राम ट्रेडर्सलाई invoice पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति? NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status? for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send invoice to customer NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "नयाँ बिल बनाऊ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "vat invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Ram को Print invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "VAT invoice चाहिन्छ for Krishna",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's Last invoice देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for सुनिल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गोपाल को Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice NPR 2000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE STATUS?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया How many pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सुनिल को Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending बिल कति छ? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate bill?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल भुक्तानी? NPR 25000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Cancel invoice for Gopal",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please Cancel invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice payment status? for Shyam",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृष्ण को ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week New bill बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "How many pending invoices? NPR 15000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "yesterday Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Customer को invoice? for कृष्ण",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today ग्राहकको बिल बनाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice status? for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत महिना Customer को invoice?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "bill payment status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आज Create VAT invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice NPR 50000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल तयार गर for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last month pending बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "New invoice please?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "PENDING बिल कति छ?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर NPR 10000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "vat बिल चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for बिनोद",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको विवरण? for Anita",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today's बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को Create a bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today Create billing",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "this month Pending invoices?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिलको status? NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल GENERATE गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice details देखाऊ for Sunil",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please बिल अपडेट गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today बिल generate गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "हिजो Invoice list चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गीता को Invoice status?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Print invoice for राम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "UPDATE INVOICE",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Invoice list चाहिन्छ for सरिता",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "आजको Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Update invoice for Hari",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Generate bill",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Pending invoice कति?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "INVOICE STATUS देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "बिल रद्द गर NPR 1000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Hari को बिल सूची?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो हप्ता बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today अन्तिम बिल देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today इन्भ्वाइस पठाउनुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "यो महिना VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Send the invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week Invoice status देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice NPR 5000",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "today बिल रद्द गर",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "last week बिल छाप्नुस्",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "गत हप्ता बिल पठाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को Make an invoice",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "please VAT invoice चाहिन्छ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Last invoice? for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "इन्भ्वाइस तयार गर for गोपाल",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Anita को Invoice details देखाऊ",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Generate invoice for श्याम",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "Bill cancel गर?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "सरिता को Invoice details?",
+    "intent": "invoice_creation"
+  },
+  {
+    "text": "कृपया Invoice for customer A",
+    "intent": "invoice_creation"
+  }
+]

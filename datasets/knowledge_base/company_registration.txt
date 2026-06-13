@@ -1,0 +1,60 @@
+Company Registration in Nepal — Guide for VANI Knowledge Base
+
+1. Types of Business Entities
+- Sole Proprietorship (Ekal Byapari)
+- Partnership Firm
+- Private Limited Company (Pvt. Ltd.)
+- Public Limited Company (Ltd.)
+- Branch Office of Foreign Company
+- Non-Governmental Organization (NGO)
+
+2. Private Limited Company Registration
+Step 1: Name Reservation
+- Apply to Office of Company Registrar (OCR).
+- Proposed name must be unique and not misleading.
+- Fee: NPR 500.
+- Valid for 60 days.
+
+Step 2: Prepare Documents
+- Memorandum of Association (MOA)
+- Articles of Association (AOA)
+- Citizenship copies of all directors/shareholders
+- Passport copies (for foreign investors)
+
+Step 3: Register at OCR
+- Submit application with MOA, AOA, and fees.
+- Minimum capital: NPR 1 (no minimum for Pvt. Ltd.)
+- Registration fee: Based on authorized capital.
+
+Step 4: Obtain PAN
+- Register at Inland Revenue Department.
+- Required for VAT and tax purposes.
+
+Step 5: Local Registration
+- Register at local municipality/ward office.
+- Obtain business operation license.
+
+3. Registration Fees
+- Up to NPR 1 lakh capital: NPR 1,000
+- NPR 1-5 lakh: NPR 4,500
+- NPR 5 lakh - 25 lakh: NPR 9,500
+- NPR 25 lakh - 1 crore: NPR 16,000
+- Above NPR 1 crore: NPR 21,000
+
+4. Annual Compliance
+- Annual General Meeting (AGM) within 6 months of fiscal year end.
+- File annual returns with OCR.
+- Tax audit if turnover > NPR 5 million.
+- Renew business license annually.
+
+5. Foreign Investment
+- Foreign Investment and Technology Transfer Act (FITTA).
+- Minimum investment: NPR 5 crore (USD 50,000 approx.).
+- Approval from Department of Industry.
+- Repatriation of profits permitted.
+
+6. Key Contacts
+- Office of Company Registrar: www.ocr.gov.np
+- Department of Industry: www.doi.gov.np
+- Inland Revenue Department: www.ird.gov.np
+- Nepal Rastra Bank (for foreign exchange): www.nrb.org.np

@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "आजको Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY UPDATE गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? for कृष्ण",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check गर NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको product",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बाँकी स्टक कति? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो? for कृष्ण",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check गर for Sarita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "notebookको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WAREHOUSE INVENTORY REPORT",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Items in warehouse??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "LIST LOW STOCK ITEMS",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक LEVEL?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो? for Krishna",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी? for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock? for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK STATUS?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "laptopको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check please?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK LEVEL कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "CURRENT STOCK COUNT",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "what's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Anita को गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sita को Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse inventory report for Krishna",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "SHOW ME THE STOCK LEVELS",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टकमा कति बाँकी छ? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "राम को Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति rice बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ? for Sunil",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी? NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WHAT'S IN STOCK?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? for सीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टकमा कति बाँकी छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY REPORT",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टकमा कति बाँकी छ? for Ram",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो? for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति ITEM STOCK मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब? for Sunil",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोपाल को कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sita को Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining? for Sarita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "राम को Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर for Ram",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन oil order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check गर for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन mobile order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "list low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट? for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update for सुनिल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK COUNT कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति keyboard बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK LEVEL UPDATE",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse inventory report?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट? for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory update गर?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "what's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन PRODUCT OUT OF STOCK छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock? for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left? for कृष्ण",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's the inventory status? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check please NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY STATUS देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ? for Sita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY CHECK गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोपाल को Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन? for गोपाल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस? for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "shirt कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Binod को Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी? NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sita को स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? for बिनोद",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन shirt order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items? for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "mobile कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report for गोपाल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory for Sita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability? NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock? for Sita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृष्ण को Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY मा कति LAPTOP बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "CHECK INVENTORY",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान सकियो??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock? for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी? for सुनिल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "what needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Anita को Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory update गर NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WHAT'S THE INVENTORY STATUS?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WHICH PRODUCTS ARE OUT OF STOCK?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK REPORT चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब? for Krishna",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left? for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? for गोपाल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "HOW MUCH STOCK DO WE HAVE?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको product? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ for सीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left? for सुनिल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको PRODUCT?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन? for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "HOW MANY ITEMS LEFT?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन mobile सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WAREHOUSE को STATUS?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Items in warehouse? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ? for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृष्ण को Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse inventory report NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोपाल को Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's the inventory status??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाम भरिएको छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count for Shyam",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान ORDER गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Shyam को Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory report for सीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ? for सीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको product??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Krishna को गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाम भरिएको छ? for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सीता को स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ? for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन PRODUCT स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock? for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Gopal को इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? for बिनोद",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Anita को List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK CHECK गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाम भरिएको छ? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "REORDER गर्नुपर्ने ITEMS?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ? for Ram",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "STOCK REMAINING?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Check inventory for Krishna",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सीता को Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock? for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sita को product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status for सुनिल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for Sita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "INVENTORY CHECK PLEASE",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? for Sarita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक कम भएको product? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ? for श्याम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "how many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बाँकी स्टक कति? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी स्टेटस? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन? for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ? for Sarita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock remaining? NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति notebook बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please How much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ? NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock report चाहिन्छ for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक अपडेट",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामान कति छ? for Binod",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "राम को Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था? for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन keyboard सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse inventory report NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sita को कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन rice सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति ITEM बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति rice बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोपाल को Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check please NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गीता को product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बाँकी स्टक कति",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृष्ण को कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ? NPR 10000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ? NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item बाँकी",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product कति बाँकी stock मा? for राम",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाम भरिएको छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory update गर NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया कुन सामान सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "इन्भेन्टरी चेक गर NPR 5000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's the inventory status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृष्ण को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's the inventory status? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have? for हरि",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Warehouse inventory report",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Reorder गर्नुपर्ने items?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product out of stock छ? for बिनोद",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What needs reordering? for गोपाल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति keyboard बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Show me the stock levels",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो हप्ता Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बिनोद को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory check गर?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "PRODUCT कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आज गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Binod को कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ? for सीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति? for सरिता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Items in warehouse",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति सामान बाँकी छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो गोदामको रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Reorder गर्नुपर्ने items??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sunil को Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "ANY ITEMS OUT OF STOCK?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Ram को गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको रिपोर्ट? for Anita",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "राम को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको इन्भेन्टरी स्टेटस?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level कति? for सुनिल",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock check गर for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति mobile बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "श्याम को गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Warehouse को status? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सीता को सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Product availability?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Stock remaining?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन oil सकियो?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability? NPR 100000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "राम को इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदामको अवस्था?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How much stock do we have",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday स्टक कम भएको product?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति pen बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सामानको हिसाब? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Current stock count?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left? NPR 500",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "WHAT NEEDS REORDERING?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability? NPR 50000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Which products are out of stock? for कृष्ण",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "how much stock do we have?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ? NPR 1000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "SHOW WAREHOUSE STATUS",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory status देखाऊ for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Low stock items देखाऊ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक level? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items for Gopal",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week Stock count कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this week सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "ITEMS IN WAREHOUSE?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना गोदाम भरिएको छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन सामान order गर्नुपर्छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को कति item बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो स्टक level?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Hari को कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "PRODUCT कति बाँकी STOCK मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Product availability? NPR 75000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Anita को Stock level update",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कति item stock मा छ? for Hari",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock count कति? for गीता",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत महिना कुन product स्टकमा छैन?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "List low stock items",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "LOW STOCK ITEMS देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सीता को Inventory check गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "product कति बाँकी?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "PRODUCT AVAILABILITY?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "बाँकी स्टक कति??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कुन product स्टकमा छैन? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last week Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "last month इन्भेन्टरी चेक गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो सामानको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock मा कति छ??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको स्टक अपडेट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सरिता को Check inventory",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सीता को स्टकमा कति बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "How many items left?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गोदाममा के के छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels NPR 2000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday Show warehouse status",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "What's in stock??",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Inventory status देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock report चाहिन्छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show me the stock levels?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Show warehouse status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता स्टक रिपोर्ट?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हरि को Current stock count",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "सुनिल को गोदाममा के के छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? NPR 25000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "this month कति item stock मा छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "कृपया Low stock items देखाऊ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टकमा कति बाँकी छ",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock level update for Krishna",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "keyboardको हिसाब?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजोको Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today's Product कति बाँकी stock मा?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today कुन product out of stock छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो कुन सामान order गर्नुपर्छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Inventory मा कति laptop बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please Inventory check please",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको बाँकी स्टक कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "गत हप्ता Stock level कति?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "please What's the inventory status?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Sarita को What needs reordering?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Inventory मा कति medicine बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "yesterday's सामान कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Items in warehouse?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "स्टक रिपोर्ट? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Any items out of stock? NPR 15000",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "यो महिना Inventory update गर",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "आजको कति सामान बाँकी छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "today Any items out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "हिजो Which products are out of stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "stock मा कति छ?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Anita को What's in stock?",
+    "intent": "inventory_query"
+  },
+  {
+    "text": "Stock status??",
+    "intent": "inventory_query"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "today's Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HOW DOES THIS WORK?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "श्याम को VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया No",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सुनिल को तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "GOOD MORNING",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HI VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HELP चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features? for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for Sarita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो? for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for सरिता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "बिनोद को VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "how does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "hi vani",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "see you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "NO",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you? for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "are you an ai?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do? NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "बिनोद को VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes for सरिता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HELP ME",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sita को Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर for सुनिल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "no",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमीले के के गर्छौ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for Krishna",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "vani, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for Sarita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "what are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help me NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "शुभ दिन NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमीले के के गर्छौ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, के गर्न सक्छौ? for सुनिल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "फेरि भेटौंला?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "श्याम को Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो? for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "vani, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "THANK YOU, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "vani के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "WHAT ARE YOUR FEATURES?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sita को VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "thank you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "PLEASE HELP गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hari को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you for Ram",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, HOW ARE YOU?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "thank you for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृष्ण को How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "फेरि भेटौंला NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HELLO",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो for Ram",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो? NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया तिमी AI हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry, माफ गर्नुस्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "श्याम को Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI? for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? for Shyam",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? for Krishna",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Bye, फेरि भेटौंला?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी ai हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help me?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सीता को Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "how does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "YES, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "NO, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, what can you do??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Bye, फेरि भेटौंला for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया for सुनिल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "vani, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी ai हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सीता को Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "ARE YOU AN AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "TELL ME ABOUT YOURSELF",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "YES",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृष्ण को Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृष्ण को Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "फेरि भेटौंला NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work? for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सुनिल को VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "THANK YOU",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन for Ram",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you? NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "thank you NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes, हो for Sarita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sita को What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "SEE YOU LATER",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you? NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good evening for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, के गर्न सक्छौ? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो? for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry, माफ गर्नुस् NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "GOOD EVENING",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you? for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hari को good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृष्ण को Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "vani, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सुनिल को माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृष्ण को शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you? for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do? NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month No",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "फेरि भेटौंला for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HOW ARE YOU?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's No",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Bye, फेरि भेटौंला NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good evening?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "शुभ दिन NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you? NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर for Sarita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HEY THERE",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ? NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सुनिल को VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? for सुनिल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "no, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI? for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hari को होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "नमस्ते?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you? for सुनिल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "BYE, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "WHAT CAN YOU DO?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "होइन NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Who are you? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो for सीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? for सरिता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "GOODBYE",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सीता को होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "श्याम को मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work? for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help me for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I NEED HELP",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो How does यो work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Hey there",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, WHAT CAN YOU DO?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "PLEASE",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "SORRY",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sita को sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning for Shyam",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गीता को No",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week तिमी AI हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् for Shyam",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना नमस्ते",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sunil को Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, तिमी कस्तो??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सीता को Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hello for Sarita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday How does this work?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सीता को How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? NPR 50000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "HOW DOES यो WORK?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "होइन for Krishna",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes, हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "SORRY, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "i need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को Sorry, माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good evening for हरि",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, के गर्न सक्छौ??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को तिमी AI हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "WHO ARE YOU?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Help चाहिन्छ for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गोपाल को Please help गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sorry?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को VANI के हो?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hari को help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you, धन्यवाद for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday VANI, के गर्न सक्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sita को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Gopal को Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "बिनोद को Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी को हौ? for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this month How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "धन्यवाद?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No for राम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Bye, फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "FEATURES के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Are you an AI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आजको VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Goodbye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "See you later NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Thank you NPR 25000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work? for गीता",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस् NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday Please",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "I need help NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को Tell me about yourself",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Features के के छन्? NPR 1000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "सरिता को Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hey there for Gopal",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How are you? for गोपाल",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good evening",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "No, होइन for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's Hi VANI",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week कसरी काम गर्छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "sorry?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Tell me about yourself?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? NPR 500",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "this week Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस्",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "मलाई सहयोग गर?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week Thank you, धन्यवाद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning for कृष्ण",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please तिमी कस्तो छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "help चाहिन्छ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना sorry",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please help गर for Anita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Are you an AI?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today Who are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Binod को तिमीले के के गर्छौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Please?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? for Krishna",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "BYE",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को तिमी को हौ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does this work? for श्याम",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी कस्तो छौ? NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "होइन?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please See you later",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Ram को हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो VANI, what can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हरि को Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "yesterday's good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको Hello",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work? NPR 2000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? NPR 10000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो महिना Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "बिनोद को What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "आज How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजो Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning, कस्तो छ? for Hari",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Goodbye NPR 75000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye NPR 15000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को फेरि भेटौंला",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कसरी काम गर्छ? for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Anita को Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Sarita को What are your features?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता bye",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "माफ गर्नुस्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो??",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Hi VANI NPR 5000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत हप्ता Yes, हो",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Krishna को thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes NPR 100000",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हो for Sita",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "How does यो work? for Sunil",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "तिमी AI हौ? for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "गत महिना No, होइन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today's VANI, how are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "यो हप्ता I need help",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please शुभ दिन",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "शुभ दिन?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today thank you",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "GOOD MORNING, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last week कृपया",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "बिनोद को Help me",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "last month Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Good morning, कस्तो छ?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "good morning",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "राम को मलाई सहयोग गर",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "bye?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "What are your features? for Binod",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI, के गर्न सक्छौ",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "please Features के के छन्?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "कृपया Yes",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "हिजोको What can you do?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "Shyam को How are you?",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "VANI के हो? for बिनोद",
+    "intent": "general_conversation"
+  },
+  {
+    "text": "today VANI, तिमी कस्तो?",
+    "intent": "general_conversation"
+  }
+]

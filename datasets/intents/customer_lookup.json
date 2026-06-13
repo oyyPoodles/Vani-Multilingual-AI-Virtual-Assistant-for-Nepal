@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "today's Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name? NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Gopal को Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database? for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना? for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको फोन नम्बर? for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer को phone number",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सीता को Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER CREDIT कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "New customer add गर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? for Sarita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer update गर for गोपाल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data? for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit? for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER को PHONE NUMBER?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? for Binod",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? for Anita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति? for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? for सीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृष्ण को Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् for गोपाल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? for Binod",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER PHONE NUMBER?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "HOW MANY CUSTOMERS?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सरिता को ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सीता को ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER UPDATE गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सीता को How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address? for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers? for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DETAILS PLEASE",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details please?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृष्ण को Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "how many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "UPDATE CUSTOMER INFO",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सरिता को Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक सूची देखाऊ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sita को Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER ADDRESS?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Binod को ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DATA?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको PAYMENT HISTORY?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list देखाऊ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer for सीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास? for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् for Binod",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer update गर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक सूची देखाऊ for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "बिनोद को Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER LIST देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list देखाऊ for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण? NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृष्ण को ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details please NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक search गर for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email? for गोपाल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक search गर for गोपाल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER PROFILE देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info? for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ADD NEW CUSTOMER",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको फोन नम्बर??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर for Hari",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "New customer add गर for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data? for सीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address? NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details please NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "FIND CUSTOMER INFO",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सरिता को ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email? NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज for Sarita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "RAM को DETAILS दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history? for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER HISTORY?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "new customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक प्रोफाइल? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info? for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको फोन नम्बर? for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database? for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "NEW CUSTOMER ADD गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email? NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email? for Hari",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name? for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile? for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक प्रोफाइल??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email? for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको CREDIT?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सीता को ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER HISTORY देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sunil को Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "SHOW ALL CUSTOMERS",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for Sarita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको EMAIL?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक search गर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? NPR 500",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DATABASE खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DATA चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ठेगाना??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer को phone number? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER PAYMENT HISTORY?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info? for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sunil को Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER LIST",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "New customer add गर NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृष्ण को Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Gopal को ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Krishna को ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको जानकारी दिनुस् for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info for Anita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile? for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Anita को Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सरिता को Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक सूची देखाऊ NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer address??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ for गीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Anita को Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history? for Binod",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "राम को Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance? for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer order history? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको info??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER EMAIL?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data चाहिन्छ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile? for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER NAME?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्? for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details देखाऊ NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer phone number??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER ORDER HISTORY?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "बिनोद को ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history देखाऊ?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Gopal को Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको जानकारी दिनुस् for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history? for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज for Binod",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सुनिल को Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER PROFILE?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "बिनोद को Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण? NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Krishna को Customer data चाहिन्छ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info for सीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER KO ADDRESS?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list for Sita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer name? for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको फोन नम्बर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? for सीता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Anita को Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको order history? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक खोज?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info NPR 25000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer for Sarita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer data?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sita को Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सरिता को Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday नयाँ ग्राहक थप",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Krishna को Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृष्ण को ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको email? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको credit? for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER SEARCH गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list देखाऊ for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहक कति छन्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "बिनोद को Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer database?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history? for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers? for श्याम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "सीता को Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "How many customers? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer history देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Update customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sita को Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history देखाऊ NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer phone number? for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email? for कृष्ण",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit कति",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Search customer for Sunil",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण? for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको INFO?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ for Hari",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER CREDIT BALANCE?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Ram को details दिनुस् NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को ग्राहकको email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक कति छन्? NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक प्रोफाइल? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer NPR 100000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको Customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हरि को Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? for सरिता",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Krishna को Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Sarita को New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer phone number",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहकको ठेगाना?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Find customer info NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक SEARCH गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today New customer add गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this month Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DATABASE?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Show all customers NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको नाम? NPR 15000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday's Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Search customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer को phone number? NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गोपाल को Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "SEARCH CUSTOMER",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "LOOK UP CUSTOMER",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer payment history? for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today's Customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Hari को ग्राहकको फोन नम्बर?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer details देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer profile देखाऊ NPR 75000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको How many customers?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer details please for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो ग्राहकको इतिहास?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer को phone number??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "नयाँ ग्राहक थप for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Gopal को ग्राहकको जानकारी दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको बाँकी रकम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल NPR 10000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको ORDER HISTORY?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत हप्ता Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Customer profile देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer history देखाऊ for Krishna",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक सूची देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer email?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday ग्राहक update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना Customer order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? for Anita",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको Customer ko address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer database खोल for हरि",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Show all customers",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer search गर NPR 2000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Update customer info?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer update गर for Shyam",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Shyam को Add new customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहक प्रोफाइल?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "श्याम को Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Anita को Look up customer",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ram को details दिनुस्",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer credit balance?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history? NPR 5000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please ग्राहकको credit?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको order history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "today Customer को phone number?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Krishna को ग्राहक search गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको जानकारी दिनुस्?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो महिना ग्राहक लिस्ट?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको ग्राहक डाटा?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गत महिना Customer name?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा? for सुनिल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Find customer info",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको payment history??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण? NPR 50000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "please Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आज Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer data? for राम",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक डाटा??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "CUSTOMER DETAILS देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक लिस्ट? for Gopal",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया Customer update गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list देखाऊ for बिनोद",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक प्रोफाइल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहकको payment history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer email",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको बाँकी रकम? for Ram",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last week Customer history?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "yesterday Customer address?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "यो हप्ता ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहक UPDATE गर",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer list?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "last month Customer profile?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजोको Customer credit कति?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Customer ko address??",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "ग्राहकको विवरण?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "गीता को Customer list",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "customer database खोल",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "कृपया ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "this week Customer details please",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहक खोज",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "हिजो Customer list देखाऊ",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "Add new customer NPR 1000",
+    "intent": "customer_lookup"
+  },
+  {
+    "text": "आजको ग्राहकको नाम?",
+    "intent": "customer_lookup"
+  }
+]

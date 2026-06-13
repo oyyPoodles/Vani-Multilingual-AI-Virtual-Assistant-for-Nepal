@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Sunil को Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Binod को बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report देखाऊ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "साप्ताहिक हाजिरी? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sarita को Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance check गर NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "CHECK ATTENDANCE",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ? for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गोपाल को late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित? for Hari",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees को??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance check गर for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who came today",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "UPDATE ATTENDANCE",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी record? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "श्याम को Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE CHECK गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence? for Shyam",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "MONTHLY ATTENDANCE चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for Sunil",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who came today??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति PERCENTAGE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "EMPLOYEE PRESENCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Shyam को Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "SHOW ATTENDANCE SHEET",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sarita को हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Shyam को आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance? for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी attendance कस्तो? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिनोद को कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति? for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "LATE ARRIVALS?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "how many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "WHO IS ON LEAVE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE RECORD?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सीता को हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गोपाल को उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sarita को आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिनोद को साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees को? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Binod को कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Shyam को Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees को",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सीता को हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Show attendance sheet?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Binod को हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "MONTHLY ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना ABSENT?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE SUMMARY?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी record??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for Shyam",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "साप्ताहिक हाजिरी? for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "LATE आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sarita को कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report? for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "WHO CAME TODAY?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Shyam को late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Anita को Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "साप्ताहिक हाजिरी",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance check गर for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "LEAVE मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "श्याम को आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "श्याम को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who came today? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ? for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? for गीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Show attendance sheet for Sunil",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी attendance कस्तो",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Anita को Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "LATE आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "श्याम को Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE UPDATE गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE REPORT?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सीता को कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance? for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "HOW MANY ABSENT?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी attendance कस्तो??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees को? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ for Sunil",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को PRESENT छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "HOW MANY PRESENT TODAY?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "WHO IS ABSENT?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record देखाऊ for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary देखाऊ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सुनिल को Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "साप्ताहिक हाजिरी??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE REPORT देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए? for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सुनिल को Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Show attendance sheet for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया कर्मचारी attendance कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Anita को कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति? for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today? for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ? for गीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको उपस्थिति??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Krishna को Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ for Sunil",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी attendance कस्तो? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी record",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "EMPLOYEE ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी ATTENDANCE कस्तो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report देखाऊ for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent? for Binod",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी RECORD?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? for Anita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Today's attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ? for गीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "WEEKLY ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage कति??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? for Hari",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "how many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for गीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE PERCENTAGE कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month आज को-को present छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "TODAY को ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance for Hari",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance check गर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month मासिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? for Hari",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "मासिक हाजिरी??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति percentage",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who came today? for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance for हरि",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report देखाऊ NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence? for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Show attendance sheet NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति? for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कोसँग अनुपस्थित? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी अपडेट गर for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Shyam को Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday बिदामा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को हाजिरी चेक गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Today को attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ for Gopal",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना आए??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Update attendance NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is on leave? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance चाहिन्छ NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गीता को उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today? for Ram",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Update attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE PERCENTAGE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE SUMMARY देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Ram को Who is absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record? for Hari",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "राम को आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी रिपोर्ट?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Attendance percentage कति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "श्याम को late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया हाजिरी अपडेट गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Attendance check गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 15000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "attendance record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE RECORD देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? for सुनिल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी SUMMARY?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिनोद को Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report देखाऊ NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Attendance details?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Who is absent? NPR 500",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "TODAY'S ATTENDANCE?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को Attendance summary देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late arrivals? for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Anita को कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सरिता को Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Check attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please Show attendance sheet",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Monthly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary देखाऊ NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको attendance? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "सीता को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? for गीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance? for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को present छ? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Monthly attendance? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today को attendance",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गोपाल को Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary? for श्याम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी चेक गर for सरिता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "उपस्थिति कस्तो छ? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "मासिक हाजिरी? NPR 75000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last month कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी विवरण? for Krishna",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "please हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence? NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month उपस्थिति percentage?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना साप्ताहिक हाजिरी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? NPR 25000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया आजको attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो late आउने कर्मचारी?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत हप्ता Employee presence?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "leave मा को छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance update गर NPR 100000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Late आउने को-को? for Sarita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Binod को Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month How many present today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Check attendance for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कर्मचारी उपस्थिति? for बिनोद",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "मासिक हाजिरी",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? for सीता",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो हप्ता हाजिरी विवरण?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Late आउने को-को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "बिदामा को छ? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को हाजिरी record?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "late आउने कर्मचारी? for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ABSENT EMPLOYEES को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना गैरहाजिर? for Sita",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ABSENT EMPLOYEES?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "यो महिना Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many present today? NPR 10000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sita को Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Employee presence??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृष्ण को Attendance report?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Sunil को कति जना absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गैरहाजिर को हो? for राम",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week उपस्थिति कस्तो छ?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आज Attendance summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this week हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "yesterday's Attendance report देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Who came today?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Late arrivals?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गत महिना आज को-को आयो?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजोको Monthly attendance चाहिन्छ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance report??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "ATTENDANCE DETAILS?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance details? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कति जना absent? NPR 2000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record? for कृष्ण",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "How many absent",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today's Absent employees को?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हरि को How many absent?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Gopal को Attendance update गर",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "कृपया Weekly attendance?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Weekly attendance? for गोपाल",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हाजिरी रिपोर्ट? NPR 5000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Absent employees?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Today's attendance??",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "today Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "last week आजको उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance record? NPR 1000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Hari को Who is on leave?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "हिजो कर्मचारी उपस्थिति?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको कति जना गैरहाजिर?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "गोपाल को हाजिरी summary?",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "this month Attendance record देखाऊ",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance percentage? NPR 50000",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "Attendance summary देखाऊ for Sunil",
+    "intent": "attendance_query"
+  },
+  {
+    "text": "आजको कोसँग अनुपस्थित?",
+    "intent": "attendance_query"
+  }
+]

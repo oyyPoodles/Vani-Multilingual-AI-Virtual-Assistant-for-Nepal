@@ -1,0 +1,501 @@
+employee_id,name,department,position,attendance,salary,phone,email,hired_date
+1,Puspa Mishra,Customer Service,Officer,True,27825.26,+977-9825627852,puspa.mishra@gmail.com,2024-10-10
+2,Madan Giri,Management,Assistant Manager,True,38615.63,+977-9827825910,madan_giri78@mail.com,2024-07-09
+3,Gita Pokhrel,Management,Cashier,True,15925.66,+977-9806660179,gita_pokhrel403@gmail.com,2023-11-19
+4,Puja Budathoki,Customer Service,Guard,True,13746.24,+977-9817580349,puja_budathoki@gmail.com,2024-05-10
+5,Dil Dhakal,Logistics,Trainee,True,8943.06,+977-9827912176,dil_dhakal794@hotmail.com,2024-08-15
+6,Sabin Shrestha,Sales,Supervisor,True,28894.85,+977-9743209540,sabin.shrestha@yahoo.com,2023-02-22
+7,Bishnu Dhakal,Management,Executive,True,20636.59,+977-9866914346,bishnu.dhakal@gmail.com,2024-12-09
+8,Saraswati Regmi,IT,Cashier,True,23010.88,+977-9827379926,saraswatiregmi695@mail.com,2023-09-10
+9,Radha Maharjan,IT,Senior Executive,True,33557.72,+977-9768221718,radha.maharjan729@hotmail.com,2023-10-10
+10,Yogesh Mandal,HR,Guard,True,13622.9,+977-9757442817,yogesh.mandal@mail.com,2021-02-26
+11,Gopal Rijal,IT,Guard,True,13929.6,+977-9745621632,gopal_rijal264@outlook.com,2022-04-13
+12,Kamala Mandal,HR,Supervisor,True,24578.15,+977-9859150367,kamala_mandal@outlook.com,2025-02-14
+13,Lok Chaudhary,Sales,Manager,False,58225.9,+977-9829025432,lokchaudhary@outlook.com,2021-12-23
+14,Kamal Shrestha,Accounts,Manager,True,65547.54,+977-9752295350,kamalshrestha@outlook.com,2024-01-19
+15,Sunil Koirala,Management,Delivery Person,True,14144.87,+977-9754508958,sunilkoirala@mail.com,2024-12-24
+16,Ganesh Pandey,Accounts,Executive,False,22157.18,+977-9861977825,ganeshpandey451@outlook.com,2022-01-02
+17,Prabha Pandey,IT,Guard,False,14752.67,+977-9803671099,prabha_pandey@gmail.com,2020-08-21
+18,Ram Dahal,Logistics,Supervisor,False,31898.41,+977-9824381846,ram_dahal@hotmail.com,2020-04-14
+19,Roshan Khadka,Logistics,Assistant Manager,True,37985.63,+977-9863242812,roshan_khadka896@outlook.com,2023-08-17
+20,Sarita Sapkota,IT,Trainee,True,8893.11,+977-9856323179,saritasapkota@yahoo.com,2023-12-19
+21,Prakash Ghimire,Inventory,Accountant,True,35368.73,+977-9848324327,prakash.ghimire645@outlook.com,2022-01-12
+22,Bhim Karki,Management,Trainee,False,13090.85,+977-9805307073,bhimkarki316@hotmail.com,2021-05-17
+23,Sabina Koirala,Sales,Manager,True,74708.76,+977-9817935802,sabina.koirala@hotmail.com,2022-07-05
+24,Rekha Bhattarai,IT,Assistant Manager,True,48674.5,+977-9746041496,rekha.bhattarai212@mail.com,2023-05-29
+25,Mina Mishra,Logistics,Officer,True,19379.13,+977-9826190080,mina.mishra@hotmail.com,2022-03-25
+26,Ramesh Shah,HR,Delivery Person,True,16632.91,+977-9864760809,ramesh.shah@mail.com,2023-09-17
+27,Laxmi Shrestha,Accounts,Senior Executive,True,31326.09,+977-9742942359,laxmishrestha933@outlook.com,2024-08-28
+28,Bijay KC,Logistics,Helper,True,14115.12,+977-9762096721,bijay_kc555@hotmail.com,2024-01-28
+29,Tek Koirala,Sales,Senior Executive,True,25151.52,+977-9801210422,tek.koirala585@hotmail.com,2022-12-02
+30,Rajesh Karki,Sales,Accountant,True,32277.29,+977-9764737501,rajesh.karki453@hotmail.com,2021-11-29
+31,Asha Regmi,Customer Service,Clerk,True,15335.25,+977-9829247498,asha_regmi33@yahoo.com,2020-02-07
+32,Puja Pradhan,HR,Clerk,True,16606.7,+977-9847520720,puja.pradhan@outlook.com,2020-06-16
+33,Sunita Oli,Sales,Trainee,True,9707.09,+977-9743949447,sunita_oli@outlook.com,2023-01-25
+34,Asha Khadka,Management,Helper,True,12051.15,+977-9862823407,ashakhadka@gmail.com,2022-12-31
+35,Nirmala Devkota,Accounts,Clerk,True,16291.92,+977-9802833402,nirmala.devkota@gmail.com,2022-12-31
+36,Mahesh Sharma,HR,Driver,True,20417.09,+977-9745573692,mahesh.sharma697@yahoo.com,2023-05-16
+37,Radha Bhandari,HR,Helper,True,11588.11,+977-9829394222,radha.bhandari@gmail.com,2020-04-28
+38,Hari Dahal,Customer Service,Trainee,True,9807.28,+977-9847995435,hari.dahal@hotmail.com,2022-05-06
+39,Bibek Lamichhane,Accounts,Officer,True,19393.33,+977-9768660208,bibek.lamichhane@hotmail.com,2020-07-31
+40,Tek Adhikari,Logistics,Manager,True,65341.86,+977-9802851341,tek.adhikari@gmail.com,2025-05-22
+41,Rajesh Lamichhane,Sales,Helper,True,12069.19,+977-9859457187,rajeshlamichhane@mail.com,2021-12-11
+42,Prabha Maharjan,Customer Service,Clerk,True,16922.01,+977-9769908935,prabha_maharjan625@hotmail.com,2023-07-11
+43,Saroj Sharma,Customer Service,Senior Executive,True,31493.65,+977-9764557673,sarojsharma688@yahoo.com,2023-04-08
+44,Kiran Sitaula,Inventory,Guard,True,16219.66,+977-9803136364,kiran_sitaula538@yahoo.com,2021-05-25
+45,Kamala Acharya,Customer Service,Trainee,True,8819.06,+977-9759569960,kamala_acharya904@outlook.com,2022-07-08
+46,Sarita Oli,Customer Service,Assistant Manager,True,32418.02,+977-9863874127,sarita_oli@gmail.com,2025-03-16
+47,Prakash Adhikari,HR,Officer,True,25008.63,+977-9827920042,prakashadhikari@gmail.com,2025-03-19
+48,Kamala Bista,Accounts,Cashier,True,15970.37,+977-9749853371,kamala.bista746@mail.com,2024-04-30
+49,Bibek Pokhrel,IT,Clerk,True,14120.72,+977-9824199841,bibek.pokhrel717@hotmail.com,2020-03-29
+50,Bal Lama,Accounts,Cashier,True,18140.63,+977-9805345307,bal.lama62@outlook.com,2021-06-09
+51,Binod Tamang,Inventory,Driver,True,16388.17,+977-9802019979,binod_tamang@outlook.com,2023-04-17
+52,Anita Singh,Sales,Accountant,False,22126.76,+977-9848819271,anitasingh@gmail.com,2020-12-02
+53,Hari Shrestha,HR,Guard,True,15450.64,+977-9809905071,hari_shrestha@mail.com,2022-04-11
+54,Suresh Pandey,Logistics,Helper,True,13557.89,+977-9824438689,suresh.pandey67@hotmail.com,2024-04-17
+55,Janaki Ghimire,Inventory,Delivery Person,True,15185.44,+977-9818325859,janaki_ghimire@mail.com,2020-08-23
+56,Narayan Tiwari,Customer Service,Accountant,True,26200.38,+977-9867404313,narayan.tiwari@yahoo.com,2021-03-05
+57,Yogesh Sitaula,IT,Trainee,False,14895.19,+977-9827919694,yogeshsitaula@mail.com,2023-08-09
+58,Meena Subedi,Management,Clerk,True,17554.13,+977-9845615990,meenasubedi298@yahoo.com,2021-06-02
+59,Ram Oli,IT,Officer,True,23243.89,+977-9803704314,ram.oli712@outlook.com,2025-03-27
+60,Deepak Pant,HR,Intern,True,7003.26,+977-9858473964,deepakpant644@gmail.com,2021-03-22
+61,Bishnu Singh,Customer Service,Intern,False,11359.93,+977-9764468539,bishnusingh@gmail.com,2023-07-02
+62,Bijay Oli,IT,Senior Executive,True,35536.11,+977-9808369802,bijayoli19@gmail.com,2022-03-12
+63,Basanta Magar,Sales,Accountant,False,23973.75,+977-9844687022,basanta.magar@hotmail.com,2023-08-30
+64,Ambika Koirala,Customer Service,Senior Executive,True,41951.13,+977-9827559667,ambika.koirala986@gmail.com,2021-01-05
+65,Gita Lamichhane,HR,Assistant Manager,False,41543.57,+977-9764834327,gita_lamichhane@outlook.com,2021-09-03
+66,Radha Bhandari,Sales,Guard,False,16645.36,+977-9824484265,radhabhandari@hotmail.com,2021-08-04
+67,Gita Oli,HR,Intern,True,7130.34,+977-9868694046,gita.oli@mail.com,2022-08-11
+68,Yogesh Budathoki,Customer Service,Intern,True,9161.99,+977-9809336389,yogeshbudathoki@hotmail.com,2022-11-28
+69,Bishnu Sharma,IT,Accountant,False,24911.82,+977-9848651988,bishnu.sharma@gmail.com,2023-06-11
+70,Asha Pokhrel,IT,Executive,True,26918.59,+977-9747510764,asha_pokhrel680@yahoo.com,2022-12-15
+71,Uma Pant,IT,Assistant Manager,True,33346.29,+977-9862164896,uma_pant@gmail.com,2023-07-27
+72,Krishna Rijal,Accounts,Guard,True,15021.98,+977-9854994661,krishnarijal90@hotmail.com,2023-03-29
+73,Lok Pradhan,Sales,Trainee,False,12499.8,+977-9864148875,lok.pradhan174@yahoo.com,2022-12-08
+74,Mina Pant,Accounts,Cashier,True,16957.64,+977-9763062770,mina.pant698@hotmail.com,2021-05-12
+75,Uma Adhikari,Logistics,Clerk,True,14249.29,+977-9869709311,umaadhikari157@yahoo.com,2021-10-09
+76,Mina Bhandari,Sales,Delivery Person,False,17336.82,+977-9816914087,mina.bhandari938@yahoo.com,2025-01-17
+77,Indra Yadav,HR,Senior Executive,True,26275.5,+977-9849850302,indra_yadav@mail.com,2021-09-13
+78,Tek Raut,Customer Service,Intern,True,10987.02,+977-9755841548,tek.raut@yahoo.com,2023-05-10
+79,Hari Rijal,Customer Service,Officer,True,26823.87,+977-9766850683,hari.rijal373@hotmail.com,2024-02-22
+80,Bibek Magar,Sales,Accountant,True,36021.28,+977-9747876763,bibekmagar216@mail.com,2023-07-10
+81,Dil Rai,Sales,Executive,False,33009.47,+977-9765841492,dil_rai@outlook.com,2020-04-28
+82,Sabin Rai,Inventory,Clerk,True,19550.05,+977-9751729584,sabin_rai638@hotmail.com,2024-07-26
+83,Prem Khadka,IT,Intern,True,10443.91,+977-9744753742,prem_khadka@gmail.com,2021-07-08
+84,Roshan Bista,Customer Service,Helper,True,15656.02,+977-9856257380,roshanbista631@yahoo.com,2023-01-17
+85,Raju Budathoki,Logistics,Driver,True,18566.59,+977-9806352708,raju.budathoki218@hotmail.com,2023-09-16
+86,Nabin KC,Management,Helper,False,12497.51,+977-9863024776,nabinkc@mail.com,2024-11-20
+87,Yogesh Khadka,Customer Service,Senior Executive,True,35666.82,+977-9819565328,yogeshkhadka@outlook.com,2022-06-22
+88,Meena Adhikari,Inventory,Clerk,True,16218.26,+977-9816722413,meena.adhikari18@outlook.com,2022-02-28
+89,Mina Sitaula,Inventory,Accountant,True,32173.92,+977-9754997807,mina_sitaula@gmail.com,2022-08-18
+90,Mahesh Neupane,Logistics,Senior Executive,False,27893.7,+977-9858816737,maheshneupane@outlook.com,2024-12-24
+91,Ambika Rijal,Accounts,Driver,False,23015.19,+977-9853395790,ambika_rijal@yahoo.com,2023-04-15
+92,Suresh Limbu,Logistics,Cashier,False,16170.65,+977-9763802939,suresh.limbu@mail.com,2023-10-27
+93,Prabha Gautam,Logistics,Officer,True,22788.48,+977-9746397539,prabhagautam815@outlook.com,2024-08-15
+94,Sita Basnet,HR,Assistant Manager,True,47970.15,+977-9762989542,sita.basnet26@mail.com,2022-05-17
+95,Ramesh Dahal,IT,Manager,False,43725.59,+977-9804846610,ramesh_dahal340@hotmail.com,2024-04-27
+96,Santosh Chaudhary,Accounts,Cashier,True,16225.78,+977-9818043191,santosh.chaudhary@mail.com,2023-12-07
+97,Sandip Raut,Customer Service,Supervisor,True,20499.88,+977-9856329759,sandipraut528@yahoo.com,2021-04-10
+98,Radha Poudel,Customer Service,Assistant Manager,True,41319.26,+977-9746985554,radha.poudel@yahoo.com,2020-03-29
+99,Gopal Gautam,Inventory,Guard,True,14961.87,+977-9817183617,gopal.gautam@outlook.com,2024-09-01
+100,Shyam Budathoki,Customer Service,Clerk,True,14088.94,+977-9755175224,shyam.budathoki@yahoo.com,2023-10-06
+101,Laxmi Adhikari,Logistics,Assistant Manager,False,36259.83,+977-9825364383,laxmi_adhikari770@gmail.com,2022-04-24
+102,Kamala Sapkota,Management,Delivery Person,True,21950.68,+977-9819233071,kamala.sapkota@outlook.com,2021-04-07
+103,Asha Raut,Management,Senior Executive,True,36406.95,+977-9861527688,asha_raut205@mail.com,2021-09-03
+104,Sunita Raut,Sales,Officer,True,25843.54,+977-9816210128,sunita_raut@gmail.com,2020-06-09
+105,Meena Pant,IT,Senior Executive,True,44094.11,+977-9828468961,meenapant@hotmail.com,2021-12-17
+106,Manish Shah,HR,Intern,True,10421.16,+977-9806468151,manish.shah352@hotmail.com,2022-07-05
+107,Sarita KC,Accounts,Accountant,True,25577.22,+977-9758335224,sarita_kc606@outlook.com,2024-12-29
+108,Ramesh Pandey,HR,Guard,True,17027.8,+977-9822596534,ramesh.pandey129@outlook.com,2024-09-21
+109,Lok Shrestha,Sales,Officer,True,29077.79,+977-9865107325,lok_shrestha@yahoo.com,2024-10-30
+110,Saroj Khadka,Customer Service,Guard,True,13138.41,+977-9812691555,saroj_khadka449@mail.com,2023-01-04
+111,Anita Bhattarai,Logistics,Helper,True,10260.91,+977-9813059970,anitabhattarai@mail.com,2022-04-02
+112,Laxmi Karki,Logistics,Officer,True,28517.42,+977-9752856279,laxmi.karki424@gmail.com,2021-08-01
+113,Uma Joshi,Accounts,Helper,True,15850.71,+977-9863035448,uma.joshi@hotmail.com,2021-09-15
+114,Sarita Pant,Customer Service,Helper,True,17720.41,+977-9864533969,sarita.pant73@outlook.com,2024-09-20
+115,Santosh Joshi,HR,Helper,False,15559.08,+977-9761839077,santoshjoshi129@gmail.com,2021-07-04
+116,Tulsi Sharma,Inventory,Manager,True,70856.08,+977-9845753798,tulsi_sharma661@hotmail.com,2020-12-15
+117,Yogesh Sherpa,Inventory,Officer,True,24378.57,+977-9846686963,yogesh_sherpa@yahoo.com,2021-07-24
+118,Suman Devkota,IT,Manager,True,50601.14,+977-9856574115,suman.devkota84@hotmail.com,2024-06-15
+119,Meena Budathoki,Logistics,Cashier,True,24101.36,+977-9853053313,meena_budathoki@yahoo.com,2021-09-03
+120,Santosh Sharma,Logistics,Guard,False,17825.59,+977-9758751974,santosh.sharma934@mail.com,2024-04-29
+121,Devi Dhakal,Sales,Executive,True,29794.86,+977-9758215165,devi_dhakal887@hotmail.com,2023-01-15
+122,Ganesh Yadav,Logistics,Officer,True,20073.18,+977-9808958072,ganesh.yadav@outlook.com,2020-07-20
+123,Manish Bhandari,Logistics,Manager,True,75312.85,+977-9822644876,manishbhandari811@outlook.com,2022-08-12
+124,Nabin Dhakal,IT,Senior Executive,False,37261.0,+977-9747466325,nabin.dhakal625@hotmail.com,2024-02-17
+125,Meena Giri,IT,Assistant Manager,True,41714.91,+977-9843258127,meena_giri@yahoo.com,2020-09-12
+126,Ram Tamang,Sales,Trainee,False,8079.34,+977-9807233357,ram_tamang441@hotmail.com,2024-02-01
+127,Basanta Budathoki,Accounts,Accountant,True,37292.88,+977-9867752119,basanta.budathoki942@hotmail.com,2021-02-23
+128,Nabin Sapkota,Management,Senior Executive,False,29399.36,+977-9847135825,nabin.sapkota291@hotmail.com,2023-03-31
+129,Nisha Regmi,Inventory,Guard,True,16810.69,+977-9765074941,nisharegmi@outlook.com,2021-04-27
+130,Suresh Ghimire,HR,Manager,True,44396.19,+977-9823367216,suresh.ghimire@hotmail.com,2020-11-11
+131,Arun Lama,Logistics,Delivery Person,True,21956.18,+977-9853547531,arun.lama@yahoo.com,2022-01-27
+132,Meena Adhikari,Sales,Intern,False,10086.71,+977-9827649575,meena_adhikari@yahoo.com,2021-10-22
+133,Keshav Poudel,Management,Accountant,True,37110.24,+977-9849143584,keshavpoudel@hotmail.com,2021-01-12
+134,Sandip Sapkota,HR,Driver,True,17713.18,+977-9749469760,sandip.sapkota@outlook.com,2024-07-19
+135,Sunil Subedi,Inventory,Accountant,True,38881.7,+977-9865726357,sunil.subedi469@outlook.com,2025-02-12
+136,Tek Subedi,Sales,Executive,True,24201.02,+977-9864830160,tek_subedi@mail.com,2024-10-14
+137,Prabha Ghimire,Logistics,Trainee,True,13930.53,+977-9842531633,prabha.ghimire815@mail.com,2022-10-15
+138,Lok Joshi,Customer Service,Guard,True,16797.3,+977-9755673735,lok_joshi659@mail.com,2020-09-05
+139,Sabin Sherpa,Sales,Cashier,True,17984.71,+977-9829226462,sabin.sherpa@mail.com,2025-06-06
+140,Ram Yadav,Accounts,Executive,False,27006.24,+977-9842253506,ramyadav289@mail.com,2020-12-15
+141,Mohan Sitaula,Management,Guard,True,17288.35,+977-9857615912,mohan_sitaula98@yahoo.com,2024-11-02
+142,Bikash Gautam,Logistics,Officer,True,23675.67,+977-9865665126,bikash.gautam@mail.com,2023-04-16
+143,Saraswati Sapkota,IT,Assistant Manager,True,42391.61,+977-9864196073,saraswati.sapkota@gmail.com,2020-01-29
+144,Nabin Giri,Sales,Guard,False,13409.87,+977-9804284418,nabin_giri403@mail.com,2020-01-26
+145,Mina Sharma,IT,Senior Executive,True,44651.28,+977-9819265130,mina.sharma905@mail.com,2024-12-16
+146,Parvati Sherpa,Customer Service,Executive,True,34284.57,+977-9843449917,parvati_sherpa148@yahoo.com,2022-02-17
+147,Basanta Gurung,Customer Service,Assistant Manager,True,41445.88,+977-9742690099,basanta.gurung@outlook.com,2021-02-13
+148,Mina Gurung,Customer Service,Cashier,False,17263.6,+977-9848724327,mina.gurung622@hotmail.com,2022-11-27
+149,Janaki Pant,HR,Guard,False,17549.21,+977-9846660267,janakipant391@gmail.com,2021-12-29
+150,Ramesh Giri,Management,Manager,True,47286.64,+977-9748180938,rameshgiri@yahoo.com,2023-02-26
+151,Durga Pokhrel,Logistics,Officer,True,22574.3,+977-9741651239,durga.pokhrel@yahoo.com,2023-01-22
+152,Rekha Yadav,Sales,Manager,True,66402.56,+977-9762905896,rekha.yadav@mail.com,2021-01-22
+153,Deepak KC,Customer Service,Guard,True,14727.5,+977-9741932641,deepak.kc@yahoo.com,2025-02-24
+154,Yogesh Subedi,Customer Service,Senior Executive,False,37453.43,+977-9867036551,yogesh.subedi@hotmail.com,2025-06-13
+155,Shyam Karki,Management,Supervisor,True,30409.32,+977-9754657666,shyam_karki@outlook.com,2024-07-14
+156,Meena Singh,Accounts,Officer,False,23652.78,+977-9869144086,meena.singh770@outlook.com,2025-04-29
+157,Madan Bista,Inventory,Accountant,False,26122.53,+977-9765813399,madan_bista@gmail.com,2023-09-03
+158,Ramesh Magar,Inventory,Executive,True,28535.46,+977-9821709693,ramesh.magar488@mail.com,2021-06-02
+159,Gopal Bista,Sales,Accountant,True,29900.26,+977-9753496839,gopalbista379@yahoo.com,2021-02-16
+160,Janaki Budathoki,Customer Service,Executive,True,25432.97,+977-9749602562,janakibudathoki150@outlook.com,2021-03-11
+161,Meena Joshi,Accounts,Helper,True,17640.16,+977-9754891673,meena_joshi@yahoo.com,2021-11-05
+162,Bikash Sherpa,Accounts,Officer,True,24844.83,+977-9862442183,bikash_sherpa@yahoo.com,2024-11-04
+163,Santosh Adhikari,Inventory,Intern,True,10180.5,+977-9827804040,santosh_adhikari865@yahoo.com,2021-03-28
+164,Raju Pokhrel,Logistics,Supervisor,True,23704.53,+977-9803155837,raju.pokhrel@yahoo.com,2024-12-29
+165,Narayan Sharma,Customer Service,Delivery Person,True,21234.87,+977-9751217325,narayansharma@yahoo.com,2024-11-17
+166,Bal Adhikari,Management,Clerk,True,19048.07,+977-9828888600,bal.adhikari@outlook.com,2025-03-26
+167,Sandip Karki,Sales,Helper,False,17602.48,+977-9801735719,sandip_karki864@gmail.com,2023-07-17
+168,Basanta Yadav,IT,Officer,True,23778.25,+977-9751359943,basanta.yadav894@yahoo.com,2022-03-27
+169,Hari KC,Management,Guard,True,12973.8,+977-9861099138,hari.kc@outlook.com,2023-01-26
+170,Indra Mandal,Logistics,Manager,True,56991.53,+977-9823453045,indra.mandal@hotmail.com,2024-07-30
+171,Arun Ghimire,Accounts,Cashier,True,23250.32,+977-9761341173,arun.ghimire973@mail.com,2022-11-11
+172,Nabin Sharma,Logistics,Clerk,False,16514.48,+977-9824744569,nabin.sharma40@gmail.com,2023-11-27
+173,Saroj Adhikari,Management,Guard,True,14895.5,+977-9825234309,sarojadhikari328@outlook.com,2025-02-15
+174,Krishna Magar,Inventory,Intern,True,9637.96,+977-9761110022,krishna.magar@hotmail.com,2023-05-30
+175,Kamala Yadav,Sales,Intern,True,11345.65,+977-9743937003,kamala.yadav20@yahoo.com,2021-11-12
+176,Anita Sapkota,Customer Service,Assistant Manager,False,44695.53,+977-9746715302,anitasapkota@mail.com,2024-02-05
+177,Santosh Pokhrel,Sales,Accountant,True,36000.06,+977-9813879757,santosh.pokhrel685@gmail.com,2024-09-17
+178,Nirmala Limbu,Management,Driver,True,24154.06,+977-9805023523,nirmala.limbu@yahoo.com,2022-12-08
+179,Sarita Gurung,Management,Cashier,True,23780.75,+977-9868882571,saritagurung@mail.com,2021-10-15
+180,Nisha Tiwari,HR,Helper,True,11220.17,+977-9856233795,nisha_tiwari@yahoo.com,2022-11-06
+181,Madan Rai,Inventory,Helper,True,11733.74,+977-9862846805,madan_rai895@hotmail.com,2024-05-01
+182,Prem Pandey,Sales,Driver,True,17457.06,+977-9761872688,prem.pandey208@yahoo.com,2024-10-07
+183,Bimal KC,HR,Senior Executive,True,37868.9,+977-9749678571,bimalkc567@outlook.com,2021-11-20
+184,Saraswati Limbu,Management,Assistant Manager,False,35665.78,+977-9757306162,saraswati_limbu@yahoo.com,2021-06-11
+185,Madan Tamang,IT,Guard,True,12152.75,+977-9768424334,madantamang813@hotmail.com,2022-04-30
+186,Sita Dhakal,Accounts,Trainee,True,14925.31,+977-9869401464,sita_dhakal@outlook.com,2024-09-26
+187,Nabin Tiwari,Inventory,Supervisor,True,32515.48,+977-9852574075,nabin.tiwari@mail.com,2022-05-21
+188,Raju Devkota,Sales,Intern,True,10407.14,+977-9755788666,raju_devkota553@gmail.com,2022-08-22
+189,Sunil Limbu,Logistics,Driver,True,21342.67,+977-9867759772,sunil.limbu763@yahoo.com,2025-01-16
+190,Kopila Adhikari,Customer Service,Supervisor,True,32634.98,+977-9812199172,kopila.adhikari@hotmail.com,2020-08-19
+191,Kiran Pokhrel,Inventory,Intern,True,5881.71,+977-9759906163,kiranpokhrel@gmail.com,2022-01-24
+192,Sabin Tiwari,Customer Service,Delivery Person,True,16132.23,+977-9857424484,sabintiwari577@hotmail.com,2020-05-11
+193,Chandra Dahal,HR,Clerk,False,18685.44,+977-9821278183,chandra_dahal358@gmail.com,2020-03-18
+194,Suresh Sitaula,Inventory,Clerk,True,16167.4,+977-9826570826,suresh_sitaula@mail.com,2023-03-31
+195,Keshav Tamang,Sales,Supervisor,True,29217.34,+977-9867755079,keshav_tamang@gmail.com,2022-12-05
+196,Ganesh Devkota,Logistics,Officer,False,18838.42,+977-9858637175,ganesh.devkota158@outlook.com,2020-05-19
+197,Ambika Gurung,HR,Helper,True,12317.64,+977-9847409906,ambikagurung@gmail.com,2023-09-14
+198,Arun Lama,Sales,Manager,False,54421.4,+977-9758627233,arun.lama@hotmail.com,2023-01-18
+199,Sabina Dahal,Management,Executive,True,32115.61,+977-9805741320,sabina_dahal@gmail.com,2023-01-13
+200,Puja Adhikari,Sales,Executive,False,22226.52,+977-9814125462,puja.adhikari@hotmail.com,2020-01-17
+201,Kopila Tamang,Management,Delivery Person,True,20407.1,+977-9827992863,kopila.tamang837@mail.com,2025-01-22
+202,Bishnu Poudel,Inventory,Accountant,True,36763.48,+977-9762598111,bishnupoudel10@gmail.com,2021-02-27
+203,Sandip Sapkota,Logistics,Guard,True,16325.71,+977-9842695635,sandip.sapkota317@yahoo.com,2022-02-27
+204,Bishnu Singh,Inventory,Intern,True,11277.17,+977-9765964576,bishnu_singh184@mail.com,2024-11-14
+205,Anita Joshi,Accounts,Accountant,False,37922.22,+977-9811396509,anitajoshi@gmail.com,2024-10-06
+206,Sabin Neupane,Sales,Assistant Manager,True,48683.91,+977-9812633551,sabin_neupane@mail.com,2021-06-02
+207,Kopila Rai,HR,Intern,False,10348.42,+977-9852468227,kopila_rai846@yahoo.com,2021-08-14
+208,Yogesh Magar,Inventory,Driver,True,20947.36,+977-9815842306,yogesh_magar@mail.com,2020-01-29
+209,Bimal Chaudhary,Logistics,Intern,True,6826.93,+977-9815078580,bimal_chaudhary@outlook.com,2025-05-26
+210,Parvati Lama,Management,Delivery Person,False,12055.92,+977-9857783729,parvati_lama@mail.com,2020-10-03
+211,Binita Lama,Customer Service,Guard,True,12146.39,+977-9753346018,binitalama202@mail.com,2021-01-09
+212,Anita KC,HR,Cashier,True,20344.2,+977-9849284214,anita_kc451@gmail.com,2023-10-16
+213,Sunita Adhikari,Customer Service,Accountant,True,32200.78,+977-9845339588,sunita.adhikari@outlook.com,2023-10-08
+214,Prakash Gautam,Management,Delivery Person,True,18464.3,+977-9746267031,prakashgautam@yahoo.com,2025-04-25
+215,Asha Bhandari,Inventory,Senior Executive,True,25223.43,+977-9751334876,asha_bhandari@yahoo.com,2025-06-11
+216,Laxmi Pant,Customer Service,Intern,True,9766.89,+977-9829839964,laxmipant749@outlook.com,2020-04-24
+217,Yogesh Rijal,Accounts,Assistant Manager,True,36671.4,+977-9749838464,yogesh.rijal722@outlook.com,2024-11-05
+218,Ramesh Pandey,Accounts,Executive,True,28636.36,+977-9852875556,ramesh_pandey712@gmail.com,2021-06-17
+219,Krishna Sapkota,Inventory,Delivery Person,False,16223.09,+977-9755160616,krishna_sapkota@gmail.com,2020-04-26
+220,Basanta Ghimire,Sales,Supervisor,True,29970.13,+977-9741816805,basantaghimire185@hotmail.com,2021-05-17
+221,Devi Shrestha,Inventory,Driver,True,16847.7,+977-9755091890,devi.shrestha@yahoo.com,2020-03-09
+222,Bal Sitaula,Management,Senior Executive,True,42535.82,+977-9765881125,bal_sitaula@hotmail.com,2021-04-27
+223,Mohan Gautam,Inventory,Helper,False,15011.02,+977-9863855969,mohangautam973@hotmail.com,2020-06-13
+224,Devi Poudel,HR,Helper,True,14461.75,+977-9846145306,devi.poudel@hotmail.com,2024-01-21
+225,Sarita Magar,Inventory,Clerk,True,13339.39,+977-9761229650,sarita_magar247@hotmail.com,2025-05-21
+226,Anita Koirala,Logistics,Supervisor,True,24809.27,+977-9758414698,anitakoirala954@hotmail.com,2022-12-18
+227,Santosh Neupane,Sales,Accountant,True,25061.67,+977-9827155148,santosh_neupane@gmail.com,2023-02-11
+228,Rajesh Chaudhary,Management,Clerk,True,12169.18,+977-9853120854,rajeshchaudhary@yahoo.com,2024-01-30
+229,Nirmala Shrestha,Logistics,Cashier,True,16849.45,+977-9746839639,nirmalashrestha@yahoo.com,2023-06-03
+230,Binita Bhattarai,Sales,Accountant,True,37985.74,+977-9808109996,binitabhattarai@mail.com,2021-10-19
+231,Ganesh Dahal,HR,Supervisor,True,23462.44,+977-9764034907,ganesh.dahal@yahoo.com,2022-04-03
+232,Bal Singh,IT,Accountant,True,34190.72,+977-9744574485,bal_singh732@outlook.com,2024-12-29
+233,Prakash Limbu,Logistics,Assistant Manager,True,44425.6,+977-9754001864,prakash_limbu7@outlook.com,2024-10-14
+234,Mohan Pradhan,Customer Service,Guard,True,15229.55,+977-9741631569,mohanpradhan@outlook.com,2022-09-19
+235,Puja Ghimire,Sales,Driver,True,20522.86,+977-9813451897,puja_ghimire988@yahoo.com,2022-11-14
+236,Sabin Tamang,HR,Helper,True,15113.35,+977-9748811001,sabin.tamang@yahoo.com,2021-10-01
+237,Parvati Limbu,Management,Officer,True,24074.68,+977-9747945174,parvati.limbu@gmail.com,2020-10-13
+238,Dil Karki,HR,Helper,True,16775.09,+977-9822701644,dil.karki227@yahoo.com,2022-08-08
+239,Bijay Magar,IT,Intern,False,11579.58,+977-9827234790,bijay_magar265@yahoo.com,2023-03-16
+240,Saroj Oli,Logistics,Helper,True,13970.51,+977-9825968757,saroj.oli@yahoo.com,2020-10-12
+241,Bimal Chaudhary,Sales,Driver,False,22824.97,+977-9805453627,bimal_chaudhary@yahoo.com,2020-05-11
+242,Jaya Yadav,Customer Service,Cashier,True,23384.26,+977-9754899466,jaya_yadav@yahoo.com,2022-05-06
+243,Kiran Budathoki,Accounts,Officer,True,21636.7,+977-9759861818,kiranbudathoki590@yahoo.com,2021-11-12
+244,Sunil Bhattarai,Customer Service,Clerk,True,17441.29,+977-9763845318,sunil_bhattarai@mail.com,2022-09-28
+245,Laxmi Pradhan,HR,Supervisor,True,22976.39,+977-9801668912,laxmipradhan660@outlook.com,2025-05-02
+246,Puspa Bista,Logistics,Supervisor,True,32985.89,+977-9861491782,puspa.bista@mail.com,2020-12-31
+247,Jaya Lamichhane,HR,Manager,True,41980.93,+977-9743148975,jaya_lamichhane@hotmail.com,2022-01-20
+248,Krishna Rai,Customer Service,Clerk,True,18417.63,+977-9853113615,krishna_rai@yahoo.com,2025-01-31
+249,Rekha Magar,Customer Service,Delivery Person,True,21472.16,+977-9862378706,rekha_magar158@mail.com,2022-06-13
+250,Roshan Gautam,Logistics,Cashier,True,22462.03,+977-9805761453,roshangautam893@mail.com,2020-11-18
+251,Mohan Adhikari,Sales,Manager,True,68863.84,+977-9863164726,mohan.adhikari@hotmail.com,2022-04-24
+252,Kopila Pant,Logistics,Cashier,True,17904.62,+977-9854946324,kopilapant@yahoo.com,2024-08-28
+253,Hari Oli,HR,Intern,False,11368.08,+977-9753165935,hari_oli309@mail.com,2023-05-08
+254,Binita Lamichhane,Logistics,Helper,True,17693.65,+977-9853721067,binitalamichhane493@yahoo.com,2021-02-07
+255,Santosh Sherpa,Customer Service,Guard,True,17342.68,+977-9859366104,santosh_sherpa46@gmail.com,2024-04-20
+256,Radha Gautam,IT,Clerk,True,15805.15,+977-9765708771,radhagautam@yahoo.com,2021-06-19
+257,Arun Mishra,Logistics,Executive,False,25816.39,+977-9829719961,arun_mishra243@outlook.com,2020-09-16
+258,Laxmi Giri,Sales,Delivery Person,True,20405.52,+977-9868806122,laxmi.giri146@gmail.com,2020-02-20
+259,Prakash Thapa,Inventory,Cashier,True,16549.54,+977-9743646142,prakash.thapa327@hotmail.com,2023-09-11
+260,Hari Sharma,Inventory,Delivery Person,True,19694.15,+977-9863200709,hari_sharma173@outlook.com,2022-09-10
+261,Jaya Tamang,Logistics,Assistant Manager,True,34029.47,+977-9807070559,jayatamang@gmail.com,2024-12-12
+262,Deepak Gurung,Accounts,Driver,False,17673.48,+977-9845878147,deepak.gurung18@mail.com,2025-01-24
+263,Prem Limbu,Logistics,Manager,True,65561.93,+977-9826794490,premlimbu@mail.com,2025-06-22
+264,Saraswati Yadav,Accounts,Cashier,True,21095.82,+977-9822772976,saraswatiyadav@outlook.com,2020-06-28
+265,Suresh Bista,Inventory,Senior Executive,True,30391.42,+977-9829605668,sureshbista321@yahoo.com,2023-01-02
+266,Laxmi Bhattarai,Sales,Delivery Person,False,20352.6,+977-9845206345,laxmibhattarai@gmail.com,2022-02-01
+267,Chandra Poudel,IT,Assistant Manager,True,33493.38,+977-9802884897,chandrapoudel509@hotmail.com,2025-05-24
+268,Tek Regmi,HR,Accountant,True,36377.4,+977-9847725120,tek.regmi414@mail.com,2020-09-05
+269,Bimal Yadav,Accounts,Cashier,True,24622.53,+977-9762112406,bimalyadav@mail.com,2021-04-16
+270,Durga Giri,Logistics,Driver,False,19600.38,+977-9822459149,durgagiri@hotmail.com,2020-09-20
+271,Saraswati Oli,HR,Delivery Person,False,17413.26,+977-9761634140,saraswati_oli@gmail.com,2021-04-05
+272,Rajesh Pokhrel,Accounts,Clerk,True,18221.32,+977-9862726867,rajesh_pokhrel697@yahoo.com,2020-06-23
+273,Tek Basnet,Management,Accountant,True,25919.5,+977-9852895419,tek_basnet800@gmail.com,2020-06-10
+274,Roshan Regmi,IT,Accountant,True,29345.89,+977-9811601716,roshan.regmi@yahoo.com,2021-03-27
+275,Yogesh Devkota,HR,Guard,True,13598.4,+977-9816822559,yogesh_devkota@yahoo.com,2020-09-23
+276,Suman Chaudhary,Accounts,Clerk,True,16927.35,+977-9753067037,sumanchaudhary6@hotmail.com,2021-11-29
+277,Puspa Thapa,Accounts,Driver,True,22891.13,+977-9844183559,puspa_thapa525@gmail.com,2022-07-10
+278,Nisha Subedi,Logistics,Helper,True,17577.66,+977-9759466027,nisha_subedi129@hotmail.com,2025-03-23
+279,Radha Sitaula,Customer Service,Officer,False,23224.0,+977-9752245593,radha.sitaula@yahoo.com,2022-04-19
+280,Saroj Rai,HR,Driver,False,17208.84,+977-9763483548,sarojrai@hotmail.com,2022-05-10
+281,Puja Maharjan,HR,Driver,True,18922.76,+977-9769563537,puja_maharjan@yahoo.com,2025-03-30
+282,Rekha Subedi,IT,Assistant Manager,True,36886.45,+977-9807310833,rekha_subedi26@yahoo.com,2021-06-22
+283,Uma Magar,Customer Service,Clerk,False,18987.72,+977-9768560928,umamagar338@mail.com,2021-05-04
+284,Prem Acharya,Sales,Officer,True,25793.96,+977-9814709808,prem_acharya@gmail.com,2025-03-02
+285,Janaki Dahal,Inventory,Manager,True,45119.58,+977-9744307296,janaki.dahal639@hotmail.com,2024-07-26
+286,Kamala Magar,Accounts,Assistant Manager,True,37206.45,+977-9748509993,kamalamagar@yahoo.com,2020-12-20
+287,Mina Devkota,Logistics,Manager,True,73984.66,+977-9859247646,mina_devkota@yahoo.com,2022-05-28
+288,Bikash Tiwari,Accounts,Driver,True,16200.55,+977-9757374138,bikash.tiwari@yahoo.com,2023-12-21
+289,Sita Thapa,HR,Guard,True,13327.65,+977-9854961145,sita.thapa947@hotmail.com,2021-12-21
+290,Mahesh Gautam,HR,Assistant Manager,True,31805.87,+977-9859665062,maheshgautam@mail.com,2022-01-15
+291,Bal Maharjan,Logistics,Accountant,False,38140.82,+977-9869528678,bal_maharjan@hotmail.com,2023-12-21
+292,Parvati Lama,Accounts,Supervisor,True,22556.51,+977-9753849754,parvati.lama523@hotmail.com,2021-01-10
+293,Sarita Yadav,Customer Service,Manager,False,66795.36,+977-9853631266,saritayadav@outlook.com,2020-11-21
+294,Ganesh Shah,Sales,Intern,True,6781.29,+977-9846500243,ganesh.shah@hotmail.com,2022-07-31
+295,Raju Subedi,HR,Helper,True,16898.82,+977-9803716979,rajusubedi292@yahoo.com,2022-04-22
+296,Chandra Pandey,Inventory,Driver,True,24741.94,+977-9763269599,chandra.pandey403@hotmail.com,2023-07-05
+297,Ramesh Gautam,Sales,Driver,True,21032.79,+977-9754660736,ramesh.gautam@yahoo.com,2020-06-25
+298,Kopila Oli,Logistics,Supervisor,True,23969.9,+977-9828048312,kopilaoli@yahoo.com,2020-06-08
+299,Bijay Lamichhane,IT,Assistant Manager,True,33079.8,+977-9747531037,bijaylamichhane931@outlook.com,2024-07-20
+300,Hari Yadav,Management,Officer,False,28519.59,+977-9823860423,hariyadav139@gmail.com,2024-12-04
+301,Rajesh Sharma,Inventory,Intern,True,11704.49,+977-9749057847,rajesh.sharma893@hotmail.com,2022-12-28
+302,Raju Bista,IT,Assistant Manager,True,32826.69,+977-9745550552,rajubista@yahoo.com,2022-02-19
+303,Kopila Sherpa,Customer Service,Trainee,True,14031.28,+977-9746880788,kopilasherpa462@hotmail.com,2020-01-10
+304,Prem Pradhan,IT,Clerk,True,14105.66,+977-9802329705,prem.pradhan242@gmail.com,2021-11-18
+305,Ram Neupane,Sales,Officer,True,18689.99,+977-9757946345,ramneupane769@yahoo.com,2022-12-13
+306,Kamal Pandey,Inventory,Guard,True,12222.45,+977-9758525906,kamalpandey@outlook.com,2025-04-06
+307,Tulsi Giri,HR,Driver,True,24882.99,+977-9844214565,tulsi.giri136@hotmail.com,2021-03-24
+308,Shanti Limbu,IT,Cashier,True,23769.54,+977-9805457578,shanti_limbu@mail.com,2024-01-14
+309,Mahesh Tiwari,Sales,Guard,True,17418.47,+977-9763285248,mahesh_tiwari326@mail.com,2023-10-29
+310,Nirmala Poudel,Logistics,Delivery Person,False,16643.24,+977-9825997457,nirmala.poudel@gmail.com,2023-04-10
+311,Sunita Sapkota,Logistics,Helper,True,10929.57,+977-9846523249,sunita_sapkota511@mail.com,2022-02-01
+312,Lok Bista,IT,Delivery Person,True,16496.52,+977-9859429338,lok.bista124@outlook.com,2025-03-09
+313,Hari Lama,Accounts,Guard,True,17888.12,+977-9828321049,harilama@gmail.com,2024-02-21
+314,Deepak Chaudhary,Management,Assistant Manager,True,32062.38,+977-9762370941,deepak.chaudhary840@gmail.com,2021-04-14
+315,Keshav Oli,IT,Manager,True,54245.73,+977-9843054365,keshav.oli@mail.com,2025-01-27
+316,Puja Sherpa,Accounts,Clerk,False,12967.89,+977-9864935348,puja_sherpa278@hotmail.com,2024-07-24
+317,Roshan Shrestha,Sales,Trainee,True,10342.46,+977-9862974341,roshanshrestha@gmail.com,2020-12-09
+318,Saroj Pandey,Accounts,Accountant,True,32574.96,+977-9814013537,sarojpandey@gmail.com,2024-02-22
+319,Kamal Pokhrel,Accounts,Accountant,True,23378.9,+977-9766923910,kamal_pokhrel@gmail.com,2024-12-19
+320,Sunita Shrestha,IT,Officer,True,24415.34,+977-9823380580,sunitashrestha539@mail.com,2023-09-24
+321,Bimal Pradhan,Sales,Senior Executive,True,26418.43,+977-9861798403,bimal_pradhan735@yahoo.com,2024-05-30
+322,Madan Pradhan,Logistics,Manager,True,64731.51,+977-9868289967,madanpradhan337@yahoo.com,2024-03-22
+323,Deepak Pradhan,Management,Manager,True,60814.36,+977-9867923811,deepak_pradhan@gmail.com,2022-05-12
+324,Nirmala Sapkota,Management,Assistant Manager,True,45155.46,+977-9851501327,nirmalasapkota54@mail.com,2025-04-25
+325,Nabin Basnet,IT,Senior Executive,True,32439.15,+977-9849884580,nabin.basnet@gmail.com,2025-04-08
+326,Lok Lamichhane,Management,Senior Executive,True,37453.68,+977-9748139356,loklamichhane675@yahoo.com,2023-12-30
+327,Prabha Raut,Management,Helper,True,17369.14,+977-9748476636,prabha_raut353@yahoo.com,2025-01-11
+328,Prabha Magar,Management,Senior Executive,False,33655.5,+977-9741810389,prabhamagar@yahoo.com,2021-03-28
+329,Dipendra Limbu,IT,Executive,True,28068.51,+977-9869644561,dipendralimbu269@outlook.com,2021-10-20
+330,Saraswati Tamang,Inventory,Supervisor,True,33278.89,+977-9758204973,saraswatitamang@hotmail.com,2023-02-17
+331,Parvati Joshi,Inventory,Delivery Person,True,13160.74,+977-9869118333,parvati_joshi637@outlook.com,2023-09-03
+332,Kamala Dhakal,HR,Trainee,False,12310.51,+977-9864591129,kamala.dhakal262@hotmail.com,2024-05-09
+333,Tek Khadka,Inventory,Executive,True,28542.67,+977-9769071217,tek_khadka@gmail.com,2025-03-09
+334,Gita Raut,Accounts,Manager,True,68295.24,+977-9823611590,gita_raut939@mail.com,2024-01-09
+335,Sarita Shrestha,Sales,Clerk,True,16936.13,+977-9852400657,saritashrestha635@hotmail.com,2024-11-01
+336,Jaya Shah,Accounts,Driver,True,20908.42,+977-9742706053,jaya_shah807@hotmail.com,2020-03-18
+337,Prakash Mandal,Management,Cashier,True,21887.69,+977-9861687641,prakash_mandal999@outlook.com,2022-04-17
+338,Uma Magar,Sales,Driver,True,15294.41,+977-9821200559,umamagar620@gmail.com,2020-12-13
+339,Bal Gurung,HR,Executive,True,26948.12,+977-9859567745,bal.gurung@outlook.com,2022-04-14
+340,Basanta Thapa,Management,Clerk,True,19359.58,+977-9854676901,basantathapa@hotmail.com,2025-03-10
+341,Nabin Karki,Inventory,Accountant,True,28643.99,+977-9762339155,nabin_karki380@gmail.com,2020-05-21
+342,Dil Dahal,IT,Trainee,False,11742.46,+977-9814907333,dil.dahal@mail.com,2020-08-05
+343,Bijay Rijal,IT,Accountant,True,34409.98,+977-9852018538,bijay.rijal97@gmail.com,2021-06-15
+344,Mina Acharya,Inventory,Accountant,True,27876.23,+977-9827168910,minaacharya448@mail.com,2021-02-10
+345,Arun Tamang,Sales,Cashier,False,22611.56,+977-9848061454,aruntamang31@outlook.com,2022-08-01
+346,Bishnu Gautam,Inventory,Assistant Manager,True,45805.4,+977-9844831626,bishnu.gautam@outlook.com,2023-10-26
+347,Gopal Shrestha,Accounts,Accountant,True,22450.85,+977-9853486143,gopal_shrestha235@mail.com,2020-03-01
+348,Kamal Joshi,IT,Helper,True,17973.37,+977-9853888100,kamal.joshi120@hotmail.com,2023-08-08
+349,Binita Budathoki,Customer Service,Helper,False,15306.55,+977-9813702040,binita_budathoki@hotmail.com,2024-10-14
+350,Bijay Chaudhary,IT,Delivery Person,True,13789.58,+977-9857977265,bijay.chaudhary@outlook.com,2020-09-13
+351,Prabha Bhandari,Sales,Intern,False,8867.15,+977-9769073021,prabhabhandari210@outlook.com,2022-04-21
+352,Arun Mandal,IT,Senior Executive,True,35616.61,+977-9741317898,arunmandal@yahoo.com,2024-08-05
+353,Arun Pradhan,Accounts,Officer,False,24805.92,+977-9812124053,arun.pradhan@outlook.com,2025-01-29
+354,Binod Maharjan,Customer Service,Guard,True,17557.76,+977-9851290249,binodmaharjan@yahoo.com,2023-11-20
+355,Saroj Sitaula,IT,Manager,True,44880.44,+977-9746037962,saroj.sitaula@gmail.com,2025-01-28
+356,Raju Khadka,IT,Driver,False,24263.66,+977-9743478515,raju_khadka@gmail.com,2024-05-29
+357,Ambika Bhandari,Inventory,Helper,False,10370.21,+977-9844091925,ambika_bhandari415@mail.com,2020-02-07
+358,Tara Subedi,Sales,Guard,True,14719.46,+977-9822085980,tara.subedi@gmail.com,2023-11-12
+359,Kopila Ghimire,Inventory,Intern,True,10099.45,+977-9866888126,kopilaghimire@yahoo.com,2025-02-20
+360,Dev Subedi,Customer Service,Officer,True,24525.33,+977-9811711200,dev_subedi@outlook.com,2023-07-18
+361,Gopal Devkota,Customer Service,Delivery Person,True,17403.36,+977-9747226480,gopal_devkota60@hotmail.com,2020-01-31
+362,Rekha Bista,Logistics,Accountant,True,28446.52,+977-9769573898,rekhabista@yahoo.com,2020-03-07
+363,Sunil Dahal,Accounts,Trainee,False,9842.91,+977-9868974778,sunil_dahal525@mail.com,2021-03-26
+364,Saraswati Joshi,Management,Delivery Person,True,21573.56,+977-9749156798,saraswatijoshi979@gmail.com,2022-05-12
+365,Bibek Rai,Accounts,Driver,True,22056.03,+977-9804917027,bibek_rai928@hotmail.com,2024-10-25
+366,Ganesh Yadav,HR,Accountant,True,39044.41,+977-9821802687,ganeshyadav@mail.com,2021-03-25
+367,Keshav Koirala,Accounts,Trainee,False,14321.68,+977-9758573744,keshav_koirala101@gmail.com,2023-06-21
+368,Yogesh Pant,Logistics,Senior Executive,True,43111.58,+977-9763905779,yogeshpant97@gmail.com,2020-12-29
+369,Kamala Neupane,Sales,Assistant Manager,True,37473.22,+977-9816430454,kamala_neupane@gmail.com,2022-01-16
+370,Kamala Rijal,Inventory,Assistant Manager,True,37083.28,+977-9765107858,kamala.rijal@outlook.com,2021-02-28
+371,Chandra Giri,Inventory,Helper,True,11137.81,+977-9857463602,chandra_giri751@mail.com,2021-08-23
+372,Durga Raut,IT,Assistant Manager,True,30545.44,+977-9841277257,durga.raut220@outlook.com,2024-11-22
+373,Dev Tamang,HR,Cashier,True,18831.67,+977-9822648205,devtamang623@mail.com,2021-04-16
+374,Janaki Maharjan,Management,Executive,False,24962.27,+977-9769838027,janaki.maharjan@yahoo.com,2024-06-10
+375,Sandip Pandey,Customer Service,Officer,True,19737.02,+977-9741928349,sandippandey591@hotmail.com,2023-03-03
+376,Bibek Limbu,Logistics,Helper,True,14953.67,+977-9749192017,bibeklimbu@yahoo.com,2021-04-14
+377,Bal Subedi,Inventory,Clerk,True,19510.96,+977-9765177624,balsubedi@yahoo.com,2023-01-21
+378,Janaki Tamang,Accounts,Assistant Manager,True,36573.23,+977-9764837615,janaki.tamang888@gmail.com,2022-09-28
+379,Puspa Oli,Logistics,Supervisor,True,22284.67,+977-9766081557,puspaoli890@gmail.com,2023-09-23
+380,Krishna Lamichhane,Inventory,Executive,True,20198.01,+977-9759067906,krishna.lamichhane18@outlook.com,2021-08-15
+381,Bimal Karki,Inventory,Supervisor,True,31843.39,+977-9745376113,bimal_karki782@mail.com,2024-12-22
+382,Radha Pradhan,Management,Supervisor,True,31361.52,+977-9756269212,radha_pradhan744@mail.com,2022-09-25
+383,Asha Chaudhary,Sales,Senior Executive,True,28774.76,+977-9755039320,asha.chaudhary@outlook.com,2023-09-08
+384,Anita Devkota,Customer Service,Executive,True,30685.71,+977-9822487478,anitadevkota435@hotmail.com,2022-12-25
+385,Lok Magar,Accounts,Accountant,False,28511.12,+977-9807011357,lokmagar189@mail.com,2025-02-12
+386,Bishnu Gautam,Inventory,Accountant,True,28103.84,+977-9757150113,bishnugautam3@yahoo.com,2023-04-16
+387,Puspa Khadka,HR,Officer,True,24755.67,+977-9848846152,puspakhadka@yahoo.com,2023-02-17
+388,Laxmi Dahal,Inventory,Guard,True,12213.59,+977-9866981649,laxmidahal113@gmail.com,2020-04-27
+389,Santosh Ghimire,Sales,Helper,True,15437.79,+977-9749790228,santosh.ghimire@hotmail.com,2023-04-06
+390,Deepak Mishra,IT,Senior Executive,True,29455.2,+977-9769565103,deepakmishra823@mail.com,2020-08-15
+391,Chandra Lamichhane,Inventory,Driver,False,17231.07,+977-9801549448,chandra_lamichhane853@hotmail.com,2022-01-22
+392,Basanta Tiwari,Inventory,Clerk,False,14314.55,+977-9801863462,basantatiwari21@yahoo.com,2021-04-03
+393,Dil Poudel,Accounts,Clerk,True,15226.92,+977-9742658925,dil_poudel@yahoo.com,2022-11-07
+394,Suman Magar,IT,Assistant Manager,False,34087.82,+977-9761196612,suman.magar858@mail.com,2024-12-05
+395,Ambika Yadav,Customer Service,Cashier,True,21597.41,+977-9752700971,ambika_yadav579@hotmail.com,2022-03-30
+396,Madan Limbu,IT,Manager,False,60415.81,+977-9806667968,madan_limbu445@outlook.com,2020-09-02
+397,Nisha Sharma,HR,Senior Executive,True,31347.99,+977-9807286147,nisha.sharma@hotmail.com,2025-05-28
+398,Nirmala Subedi,Sales,Manager,False,71870.2,+977-9751737968,nirmala_subedi@hotmail.com,2023-03-24
+399,Narayan Pant,IT,Intern,True,8786.24,+977-9841036234,narayanpant118@hotmail.com,2022-12-05
+400,Suman Limbu,IT,Trainee,True,14431.54,+977-9767588673,sumanlimbu326@gmail.com,2021-06-14
+401,Madan Rijal,Sales,Intern,True,7591.41,+977-9859625084,madanrijal@hotmail.com,2020-06-24
+402,Binod Ghimire,IT,Senior Executive,True,42438.75,+977-9748548632,binod_ghimire199@hotmail.com,2021-09-10
+403,Anita Subedi,IT,Driver,True,15875.07,+977-9766907743,anita_subedi@yahoo.com,2024-05-11
+404,Bishnu Giri,Inventory,Helper,True,13577.0,+977-9864127770,bishnu_giri303@mail.com,2020-04-10
+405,Kamal Pokhrel,HR,Manager,False,68921.28,+977-9816142496,kamalpokhrel@outlook.com,2025-03-21
+406,Sandip Joshi,Inventory,Guard,True,14361.43,+977-9867779447,sandip_joshi@gmail.com,2021-06-01
+407,Uma Rijal,Customer Service,Senior Executive,False,25082.85,+977-9855428942,uma.rijal425@hotmail.com,2022-07-21
+408,Ram Dahal,Management,Manager,True,70021.57,+977-9851108245,ramdahal@hotmail.com,2024-02-20
+409,Nirmala Giri,HR,Senior Executive,True,41378.53,+977-9854716979,nirmala.giri@hotmail.com,2023-03-28
+410,Tara Joshi,Accounts,Manager,True,62831.37,+977-9751357370,tarajoshi768@yahoo.com,2025-03-05
+411,Meena Sherpa,IT,Intern,True,5017.89,+977-9818056259,meena_sherpa@yahoo.com,2022-10-04
+412,Tara Poudel,Inventory,Guard,True,16772.66,+977-9801139282,tara_poudel@hotmail.com,2022-04-22
+413,Nisha Neupane,Accounts,Guard,False,13167.41,+977-9864744199,nisha.neupane437@gmail.com,2022-12-26
+414,Sarita Oli,Inventory,Executive,True,27933.64,+977-9827026104,sarita.oli749@hotmail.com,2024-06-02
+415,Laxmi Gurung,Sales,Senior Executive,True,33354.82,+977-9868229874,laxmigurung@yahoo.com,2021-12-19
+416,Suman Pradhan,IT,Intern,True,8155.54,+977-9813694532,suman.pradhan407@hotmail.com,2025-05-30
+417,Kamal Yadav,HR,Helper,False,11126.66,+977-9818611576,kamal.yadav625@mail.com,2022-09-27
+418,Mina Poudel,Management,Officer,True,26135.77,+977-9843976735,mina_poudel@gmail.com,2021-07-01
+419,Yogesh Pandey,Inventory,Accountant,True,32856.13,+977-9868940845,yogesh.pandey@gmail.com,2021-08-10
+420,Rekha Gurung,Accounts,Officer,False,20294.59,+977-9758617815,rekhagurung@outlook.com,2022-04-02
+421,Durga Karki,Sales,Driver,True,19998.73,+977-9803899838,durgakarki@mail.com,2022-06-09
+422,Shyam Oli,Logistics,Cashier,True,16983.27,+977-9824646630,shyam.oli413@gmail.com,2024-04-13
+423,Bimal Yadav,Sales,Helper,True,10794.74,+977-9754382878,bimal_yadav587@mail.com,2020-10-09
+424,Yogesh Pant,Management,Intern,True,8309.79,+977-9802797457,yogesh.pant250@yahoo.com,2021-04-03
+425,Basanta Khadka,Customer Service,Trainee,True,13907.61,+977-9763641560,basanta.khadka440@yahoo.com,2024-03-09
+426,Ganesh Basnet,IT,Cashier,False,20444.35,+977-9815740683,ganesh_basnet915@yahoo.com,2020-09-02
+427,Dil Koirala,HR,Senior Executive,True,40400.69,+977-9827923671,dil.koirala31@outlook.com,2023-01-12
+428,Basanta Chaudhary,HR,Accountant,True,23993.18,+977-9851661541,basanta.chaudhary@yahoo.com,2021-07-04
+429,Nabin Shah,HR,Officer,True,23311.96,+977-9767631797,nabin_shah1@mail.com,2020-08-04
+430,Nirmala Raut,Management,Supervisor,True,21242.45,+977-9759124472,nirmalaraut426@outlook.com,2024-11-08
+431,Chandra Rai,Accounts,Delivery Person,True,19668.16,+977-9768179480,chandra_rai@hotmail.com,2022-09-15
+432,Shanti Sharma,IT,Intern,True,5714.87,+977-9814649888,shanti_sharma@outlook.com,2020-02-19
+433,Dipendra Koirala,IT,Supervisor,True,28549.89,+977-9817749167,dipendra_koirala@outlook.com,2022-09-05
+434,Anita Pradhan,Accounts,Accountant,True,39872.21,+977-9754181715,anita_pradhan@mail.com,2025-01-30
+435,Bikash Oli,Accounts,Helper,True,13254.16,+977-9813788002,bikasholi@outlook.com,2022-11-16
+436,Yogesh Shrestha,Sales,Trainee,True,10557.49,+977-9866577993,yogeshshrestha432@mail.com,2022-05-29
+437,Saroj Tamang,Logistics,Accountant,True,30403.61,+977-9813299081,sarojtamang436@gmail.com,2020-08-17
+438,Rekha Neupane,Management,Senior Executive,True,43650.35,+977-9861526768,rekhaneupane139@yahoo.com,2021-10-19
+439,Rita Gautam,Management,Delivery Person,False,15591.23,+977-9803903811,ritagautam311@mail.com,2025-03-10
+440,Roshan Limbu,Customer Service,Supervisor,True,30785.37,+977-9754325299,roshan.limbu@mail.com,2021-10-06
+441,Janaki Sharma,Accounts,Assistant Manager,False,35164.83,+977-9811246348,janakisharma107@hotmail.com,2023-05-07
+442,Bijay Sapkota,Accounts,Executive,True,34491.04,+977-9744489562,bijaysapkota97@gmail.com,2022-12-13
+443,Chandra Oli,IT,Intern,True,5192.44,+977-9851059938,chandra_oli@mail.com,2020-06-17
+444,Anita Neupane,Accounts,Accountant,False,30419.31,+977-9805434762,anita_neupane@yahoo.com,2024-04-09
+445,Sita Sapkota,Management,Guard,True,14169.76,+977-9817513062,sitasapkota@gmail.com,2020-08-02
+446,Puspa Shrestha,Logistics,Trainee,False,13907.9,+977-9757545340,puspa.shrestha612@mail.com,2021-04-14
+447,Mohan Bhattarai,Management,Officer,True,21797.69,+977-9865474396,mohanbhattarai@gmail.com,2024-06-29
+448,Shanti Sitaula,Management,Officer,True,24446.83,+977-9757311278,shantisitaula809@hotmail.com,2020-02-02
+449,Bimal Adhikari,Inventory,Cashier,True,22784.39,+977-9811260514,bimal_adhikari541@yahoo.com,2021-10-18
+450,Kopila Giri,HR,Senior Executive,False,39312.7,+977-9742778481,kopila_giri@yahoo.com,2022-04-20
+451,Bimal Rai,IT,Delivery Person,True,20629.38,+977-9754700703,bimal.rai855@yahoo.com,2023-11-23
+452,Yogesh Neupane,Management,Cashier,True,16355.79,+977-9867110460,yogeshneupane421@yahoo.com,2024-12-28
+453,Prem Devkota,Accounts,Delivery Person,True,12176.6,+977-9751027298,prem.devkota669@gmail.com,2022-11-25
+454,Hari Sharma,Management,Trainee,True,9658.45,+977-9813116005,hari.sharma698@gmail.com,2020-01-16
+455,Basanta Thapa,Logistics,Guard,True,17866.84,+977-9819193196,basanta_thapa554@yahoo.com,2022-08-30
+456,Kamal Acharya,Management,Driver,False,23628.01,+977-9841062008,kamal_acharya240@outlook.com,2023-12-29
+457,Sarita Magar,IT,Delivery Person,False,18203.64,+977-9857031921,sarita.magar@yahoo.com,2025-04-30
+458,Ram Subedi,Inventory,Senior Executive,False,34983.51,+977-9812982378,ramsubedi282@gmail.com,2023-08-29
+459,Kamala Acharya,Management,Senior Executive,False,33681.41,+977-9815784783,kamala_acharya867@gmail.com,2023-07-14
+460,Madan Adhikari,Logistics,Senior Executive,False,29989.26,+977-9843981248,madanadhikari@outlook.com,2020-12-25
+461,Anita Bista,Accounts,Accountant,True,35623.34,+977-9743201575,anitabista998@hotmail.com,2020-09-13
+462,Jaya Joshi,Management,Senior Executive,False,43018.26,+977-9867747583,jaya_joshi@gmail.com,2020-11-06
+463,Lok Magar,Sales,Driver,True,23159.82,+977-9851410155,lokmagar@yahoo.com,2024-11-08
+464,Hari Sherpa,Customer Service,Trainee,True,8946.17,+977-9867327103,harisherpa729@hotmail.com,2023-05-20
+465,Arun Koirala,Sales,Accountant,True,31777.58,+977-9866276544,arun.koirala@mail.com,2020-09-06
+466,Bikash Regmi,HR,Manager,True,71113.34,+977-9747179593,bikash_regmi207@yahoo.com,2024-11-16
+467,Sandip Shrestha,Sales,Accountant,False,29866.77,+977-9821025155,sandip.shrestha776@mail.com,2022-12-14
+468,Asha Regmi,Management,Intern,True,7189.21,+977-9847624326,asharegmi338@hotmail.com,2020-01-06
+469,Sabin Tamang,Management,Trainee,False,8395.63,+977-9829665976,sabintamang644@hotmail.com,2025-03-18
+470,Suman Sapkota,Management,Guard,True,15656.83,+977-9765858475,suman.sapkota@outlook.com,2023-03-04
+471,Saraswati Sapkota,HR,Assistant Manager,True,38948.71,+977-9858948590,saraswati_sapkota254@mail.com,2021-08-08
+472,Bhim Rai,Management,Guard,True,17419.86,+977-9767774090,bhim.rai@yahoo.com,2023-01-29
+473,Rita Limbu,IT,Delivery Person,True,18783.98,+977-9846372509,ritalimbu46@gmail.com,2023-08-10
+474,Devi Koirala,Accounts,Assistant Manager,True,37839.89,+977-9769181688,devi_koirala@gmail.com,2023-09-24
+475,Yogesh Rai,Accounts,Driver,False,18415.5,+977-9762042084,yogeshrai231@mail.com,2023-11-28
+476,Suman Koirala,IT,Guard,True,13498.68,+977-9745611979,suman.koirala@yahoo.com,2022-07-16
+477,Nisha Oli,Management,Guard,True,12033.98,+977-9815825320,nishaoli@outlook.com,2025-05-07
+478,Parvati Karki,Sales,Helper,False,15578.39,+977-9861064533,parvatikarki689@outlook.com,2025-05-28
+479,Lok Raut,HR,Executive,True,31409.96,+977-9761293461,lokraut869@outlook.com,2024-05-13
+480,Durga Koirala,Sales,Delivery Person,False,15897.96,+977-9851445658,durgakoirala263@gmail.com,2022-09-21
+481,Rajesh Rai,Sales,Executive,True,25785.95,+977-9825257502,rajesh_rai109@yahoo.com,2022-07-28
+482,Shanti Ghimire,Sales,Delivery Person,False,19493.64,+977-9863069142,shanti_ghimire623@hotmail.com,2024-08-29
+483,Bikash Oli,Inventory,Officer,False,20657.92,+977-9824048173,bikash.oli@hotmail.com,2023-06-25
+484,Bibek Pradhan,Customer Service,Clerk,True,14364.96,+977-9801661722,bibekpradhan595@hotmail.com,2020-12-17
+485,Puja Sharma,Customer Service,Helper,True,13400.73,+977-9854275576,puja.sharma@yahoo.com,2020-01-09
+486,Narayan Joshi,IT,Cashier,True,17511.56,+977-9857741333,narayan_joshi@outlook.com,2021-01-30
+487,Parvati Chaudhary,Accounts,Senior Executive,True,33195.95,+977-9856493242,parvati_chaudhary@outlook.com,2020-04-02
+488,Kamala Pradhan,Management,Cashier,False,19700.96,+977-9814990198,kamalapradhan288@yahoo.com,2024-02-08
+489,Ambika Shah,Sales,Helper,True,17830.54,+977-9825640050,ambika_shah@yahoo.com,2023-04-16
+490,Kopila Limbu,Management,Accountant,False,30913.2,+977-9803301627,kopila_limbu961@gmail.com,2021-07-08
+491,Janaki Pandey,IT,Delivery Person,True,18581.87,+977-9854710049,janaki_pandey@mail.com,2025-05-18
+492,Bal Acharya,Inventory,Supervisor,False,20877.84,+977-9756775709,bal_acharya@outlook.com,2021-04-16
+493,Tara Magar,Inventory,Senior Executive,True,35804.07,+977-9818151893,tara.magar19@hotmail.com,2022-04-23
+494,Manish Pradhan,Customer Service,Officer,True,22068.27,+977-9806027758,manish.pradhan630@hotmail.com,2022-12-09
+495,Suresh Maharjan,Management,Assistant Manager,True,42952.14,+977-9858899206,suresh_maharjan@mail.com,2021-11-14
+496,Durga Mandal,Customer Service,Trainee,True,8172.61,+977-9813535477,durga.mandal61@yahoo.com,2025-03-01
+497,Bishnu Sapkota,IT,Delivery Person,True,17542.31,+977-9807346949,bishnu_sapkota@mail.com,2020-08-19
+498,Durga Khadka,IT,Officer,True,19056.57,+977-9846456083,durga_khadka@hotmail.com,2020-07-18
+499,Prem Rijal,Management,Executive,False,27362.23,+977-9867466511,premrijal@outlook.com,2024-01-04
+500,Kiran Limbu,Management,Accountant,True,27202.4,+977-9762711527,kiranlimbu43@gmail.com,2021-07-24
